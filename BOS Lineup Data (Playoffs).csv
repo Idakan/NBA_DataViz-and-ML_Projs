@@ -1,0 +1,751 @@
+,Name,EntityId,Minutes,OffPoss,DefPoss,Points,OpponentPoints,TsPct,FG2A,FG3A,FTA,Lineup,Team Points,Team FG2M,Team FG2A,Team FG3M,Team FG3A,Team TsPct,Team FTA,Season,Team,PtsPer75,FGA,Team FGA
+0,Jayson Tatum,1628369,23,47,45,15,45,0.5,7,6,5,"Jayson Tatum, Derrick White, Robert Williams III, Grant Williams, Payton Pritchard",47,16,26,2,17,0.4895833333333333,11,2021-22,BOS,23.93617021276596,13,43
+1,Derrick White,1628401,23,47,45,9,45,0.375,8,3,2,"Jayson Tatum, Derrick White, Robert Williams III, Grant Williams, Payton Pritchard",47,16,26,2,17,0.4895833333333333,11,2021-22,BOS,14.361702127659575,11,43
+2,Robert Williams III,1629057,23,47,45,7,45,0.5,6,0,2,"Jayson Tatum, Derrick White, Robert Williams III, Grant Williams, Payton Pritchard",47,16,26,2,17,0.4895833333333333,11,2021-22,BOS,11.170212765957446,6,43
+3,Grant Williams,1629684,23,47,45,6,45,0.75,3,0,2,"Jayson Tatum, Derrick White, Robert Williams III, Grant Williams, Payton Pritchard",47,16,26,2,17,0.4895833333333333,11,2021-22,BOS,9.574468085106384,3,43
+4,Payton Pritchard,1630202,23,47,45,10,45,0.5,2,8,0,"Jayson Tatum, Derrick White, Robert Williams III, Grant Williams, Payton Pritchard",47,16,26,2,17,0.4895833333333333,11,2021-22,BOS,15.957446808510639,10,43
+5,Jayson Tatum,1628369,12,28,28,12,27,0.4230769230769231,8,4,5,"Jayson Tatum, Derrick White, Daniel Theis, Grant Williams, Marcus Smart",29,10,16,0,9,0.4827586206896552,11,2021-22,BOS,32.142857142857146,12,25
+6,Derrick White,1628401,12,28,28,0,27,0.0,0,2,0,"Jayson Tatum, Derrick White, Daniel Theis, Grant Williams, Marcus Smart",29,10,16,0,9,0.4827586206896552,11,2021-22,BOS,0.0,2,25
+7,Daniel Theis,1628464,12,28,28,9,27,0.75,4,1,2,"Jayson Tatum, Derrick White, Daniel Theis, Grant Williams, Marcus Smart",29,10,16,0,9,0.4827586206896552,11,2021-22,BOS,24.107142857142858,5,25
+8,Grant Williams,1629684,12,28,28,2,27,1.0,0,0,2,"Jayson Tatum, Derrick White, Daniel Theis, Grant Williams, Marcus Smart",29,10,16,0,9,0.4827586206896552,11,2021-22,BOS,5.357142857142857,0,25
+9,Marcus Smart,203935,12,28,28,6,27,0.42857142857142855,4,2,2,"Jayson Tatum, Derrick White, Daniel Theis, Grant Williams, Marcus Smart",29,10,16,0,9,0.4827586206896552,11,2021-22,BOS,16.071428571428573,6,25
+10,Jaylen Brown,1627759,5,10,11,0,4,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Payton Pritchard, Al Horford",18,0,1,6,9,0.9,0,2021-22,BOS,0.0,0,10
+11,Jayson Tatum,1628369,5,10,11,3,4,0.5,1,2,0,"Jaylen Brown, Jayson Tatum, Derrick White, Payton Pritchard, Al Horford",18,0,1,6,9,0.9,0,2021-22,BOS,22.5,3,10
+12,Derrick White,1628401,5,10,11,6,4,1.5,0,2,0,"Jaylen Brown, Jayson Tatum, Derrick White, Payton Pritchard, Al Horford",18,0,1,6,9,0.9,0,2021-22,BOS,45.0,2,10
+13,Payton Pritchard,1630202,5,10,11,0,4,0.0,0,2,0,"Jaylen Brown, Jayson Tatum, Derrick White, Payton Pritchard, Al Horford",18,0,1,6,9,0.9,0,2021-22,BOS,0.0,2,10
+14,Al Horford,201143,5,10,11,9,4,1.5,0,3,0,"Jaylen Brown, Jayson Tatum, Derrick White, Payton Pritchard, Al Horford",18,0,1,6,9,0.9,0,2021-22,BOS,67.5,3,10
+15,Jaylen Brown,1627759,4,7,6,5,7,0.625,3,1,0,"Jaylen Brown, Robert Williams III, Grant Williams, Payton Pritchard, Al Horford",7,2,10,1,1,0.3181818181818182,0,2021-22,BOS,53.57142857142857,4,11
+16,Robert Williams III,1629057,4,7,6,2,7,0.3333333333333333,3,0,0,"Jaylen Brown, Robert Williams III, Grant Williams, Payton Pritchard, Al Horford",7,2,10,1,1,0.3181818181818182,0,2021-22,BOS,21.428571428571427,3,11
+17,Grant Williams,1629684,4,7,6,0,7,0.0,3,0,0,"Jaylen Brown, Robert Williams III, Grant Williams, Payton Pritchard, Al Horford",7,2,10,1,1,0.3181818181818182,0,2021-22,BOS,0.0,3,11
+18,Payton Pritchard,1630202,4,7,6,0,7,0.0,0,0,0,"Jaylen Brown, Robert Williams III, Grant Williams, Payton Pritchard, Al Horford",7,2,10,1,1,0.3181818181818182,0,2021-22,BOS,0.0,0,11
+19,Al Horford,201143,4,7,6,0,7,0.0,1,0,0,"Jaylen Brown, Robert Williams III, Grant Williams, Payton Pritchard, Al Horford",7,2,10,1,1,0.3181818181818182,0,2021-22,BOS,0.0,1,11
+20,Jaylen Brown,1627759,13,27,23,12,22,0.6,4,6,0,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Payton Pritchard",29,7,14,5,10,0.6041666666666666,0,2021-22,BOS,33.333333333333336,10,24
+21,Jayson Tatum,1628369,13,27,23,5,22,0.4166666666666667,5,1,0,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Payton Pritchard",29,7,14,5,10,0.6041666666666666,0,2021-22,BOS,13.88888888888889,6,24
+22,Derrick White,1628401,13,27,23,3,22,1.5,0,1,0,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Payton Pritchard",29,7,14,5,10,0.6041666666666666,0,2021-22,BOS,8.333333333333334,1,24
+23,Robert Williams III,1629057,13,27,23,4,22,1.0,2,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Payton Pritchard",29,7,14,5,10,0.6041666666666666,0,2021-22,BOS,11.11111111111111,2,24
+24,Payton Pritchard,1630202,13,27,23,5,22,0.5,3,2,0,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Payton Pritchard",29,7,14,5,10,0.6041666666666666,0,2021-22,BOS,13.88888888888889,5,24
+25,Jayson Tatum,1628369,8,16,17,5,13,0.4166666666666667,1,3,4,"Jayson Tatum, Grant Williams, Payton Pritchard, Al Horford, Marcus Smart",22,2,2,5,14,0.6111111111111112,4,2021-22,BOS,23.4375,4,16
+26,Grant Williams,1629684,8,16,17,6,13,1.0,0,3,0,"Jayson Tatum, Grant Williams, Payton Pritchard, Al Horford, Marcus Smart",22,2,2,5,14,0.6111111111111112,4,2021-22,BOS,28.125,3,16
+27,Payton Pritchard,1630202,8,16,17,9,13,0.75,0,6,0,"Jayson Tatum, Grant Williams, Payton Pritchard, Al Horford, Marcus Smart",22,2,2,5,14,0.6111111111111112,4,2021-22,BOS,42.1875,6,16
+28,Al Horford,201143,8,16,17,0,13,0.0,0,1,0,"Jayson Tatum, Grant Williams, Payton Pritchard, Al Horford, Marcus Smart",22,2,2,5,14,0.6111111111111112,4,2021-22,BOS,0.0,1,16
+29,Marcus Smart,203935,8,16,17,2,13,0.5,1,1,0,"Jayson Tatum, Grant Williams, Payton Pritchard, Al Horford, Marcus Smart",22,2,2,5,14,0.6111111111111112,4,2021-22,BOS,9.375,2,16
+30,Jaylen Brown,1627759,2,3,4,3,9,1.5,0,1,0,"Jaylen Brown, Jayson Tatum, Robert Williams III, Payton Pritchard, Al Horford",3,0,1,1,2,0.5,0,2021-22,BOS,75.0,1,3
+31,Jayson Tatum,1628369,2,3,4,0,9,0.0,1,0,0,"Jaylen Brown, Jayson Tatum, Robert Williams III, Payton Pritchard, Al Horford",3,0,1,1,2,0.5,0,2021-22,BOS,0.0,1,3
+32,Robert Williams III,1629057,2,3,4,0,9,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Robert Williams III, Payton Pritchard, Al Horford",3,0,1,1,2,0.5,0,2021-22,BOS,0.0,0,3
+33,Payton Pritchard,1630202,2,3,4,0,9,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Robert Williams III, Payton Pritchard, Al Horford",3,0,1,1,2,0.5,0,2021-22,BOS,0.0,0,3
+34,Al Horford,201143,2,3,4,0,9,0.0,0,1,0,"Jaylen Brown, Jayson Tatum, Robert Williams III, Payton Pritchard, Al Horford",3,0,1,1,2,0.5,0,2021-22,BOS,0.0,1,3
+35,Daniel Theis,1628464,2,5,5,0,2,0.0,0,0,0,"Daniel Theis, Grant Williams, Aaron Nesmith, Payton Pritchard, Nik Stauskas",7,2,3,0,0,0.7,5,2021-22,BOS,0.0,0,3
+36,Grant Williams,1629684,2,5,5,3,2,0.75,1,0,3,"Daniel Theis, Grant Williams, Aaron Nesmith, Payton Pritchard, Nik Stauskas",7,2,3,0,0,0.7,5,2021-22,BOS,45.0,1,3
+37,Aaron Nesmith,1630174,2,5,5,0,2,0.0,0,0,0,"Daniel Theis, Grant Williams, Aaron Nesmith, Payton Pritchard, Nik Stauskas",7,2,3,0,0,0.7,5,2021-22,BOS,0.0,0,3
+38,Payton Pritchard,1630202,2,5,5,2,2,0.5,2,0,0,"Daniel Theis, Grant Williams, Aaron Nesmith, Payton Pritchard, Nik Stauskas",7,2,3,0,0,0.7,5,2021-22,BOS,30.0,2,3
+39,Nik Stauskas,203917,2,5,5,2,2,1.0,0,0,2,"Daniel Theis, Grant Williams, Aaron Nesmith, Payton Pritchard, Nik Stauskas",7,2,3,0,0,0.7,5,2021-22,BOS,30.0,0,3
+40,Jaylen Brown,1627759,9,14,17,2,22,0.2,4,1,0,"Jaylen Brown, Derrick White, Daniel Theis, Grant Williams, Payton Pritchard",9,3,10,1,4,0.32142857142857145,0,2021-22,BOS,10.714285714285714,5,14
+41,Derrick White,1628401,9,14,17,0,22,0.0,3,0,0,"Jaylen Brown, Derrick White, Daniel Theis, Grant Williams, Payton Pritchard",9,3,10,1,4,0.32142857142857145,0,2021-22,BOS,0.0,3,14
+42,Daniel Theis,1628464,9,14,17,0,22,0.0,0,0,0,"Jaylen Brown, Derrick White, Daniel Theis, Grant Williams, Payton Pritchard",9,3,10,1,4,0.32142857142857145,0,2021-22,BOS,0.0,0,14
+43,Grant Williams,1629684,9,14,17,0,22,0.0,1,1,0,"Jaylen Brown, Derrick White, Daniel Theis, Grant Williams, Payton Pritchard",9,3,10,1,4,0.32142857142857145,0,2021-22,BOS,0.0,2,14
+44,Payton Pritchard,1630202,9,14,17,7,22,0.875,2,2,0,"Jaylen Brown, Derrick White, Daniel Theis, Grant Williams, Payton Pritchard",9,3,10,1,4,0.32142857142857145,0,2021-22,BOS,37.5,4,14
+45,Jaylen Brown,1627759,32,67,65,24,69,0.7058823529411765,9,6,4,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Grant Williams",84,16,30,10,25,0.6176470588235294,28,2021-22,BOS,26.865671641791046,15,55
+46,Jayson Tatum,1628369,32,67,65,15,69,0.4411764705882353,7,8,5,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Grant Williams",84,16,30,10,25,0.6176470588235294,28,2021-22,BOS,16.791044776119403,15,55
+47,Derrick White,1628401,32,67,65,7,69,0.3888888888888889,2,2,10,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Grant Williams",84,16,30,10,25,0.6176470588235294,28,2021-22,BOS,7.835820895522388,4,55
+48,Robert Williams III,1629057,32,67,65,21,69,0.8076923076923077,8,1,9,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Grant Williams",84,16,30,10,25,0.6176470588235294,28,2021-22,BOS,23.507462686567163,9,55
+49,Grant Williams,1629684,32,67,65,17,69,0.7083333333333334,4,8,0,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Grant Williams",84,16,30,10,25,0.6176470588235294,28,2021-22,BOS,19.029850746268657,12,55
+50,Jaylen Brown,1627759,8,16,14,2,24,1.0,1,0,0,"Jaylen Brown, Jayson Tatum, Daniel Theis, Grant Williams, Payton Pritchard",24,8,10,2,3,0.8571428571428571,2,2021-22,BOS,9.375,1,13
+51,Jayson Tatum,1628369,8,16,14,14,24,1.1666666666666667,3,2,2,"Jaylen Brown, Jayson Tatum, Daniel Theis, Grant Williams, Payton Pritchard",24,8,10,2,3,0.8571428571428571,2,2021-22,BOS,65.625,5,13
+52,Daniel Theis,1628464,8,16,14,4,24,1.0,2,0,0,"Jaylen Brown, Jayson Tatum, Daniel Theis, Grant Williams, Payton Pritchard",24,8,10,2,3,0.8571428571428571,2,2021-22,BOS,18.75,2,13
+53,Grant Williams,1629684,8,16,14,2,24,1.0,1,0,0,"Jaylen Brown, Jayson Tatum, Daniel Theis, Grant Williams, Payton Pritchard",24,8,10,2,3,0.8571428571428571,2,2021-22,BOS,9.375,1,13
+54,Payton Pritchard,1630202,8,16,14,2,24,0.25,3,1,0,"Jaylen Brown, Jayson Tatum, Daniel Theis, Grant Williams, Payton Pritchard",24,8,10,2,3,0.8571428571428571,2,2021-22,BOS,9.375,4,13
+55,Jayson Tatum,1628369,4,8,7,2,4,0.5,2,0,0,"Jayson Tatum, Derrick White, Daniel Theis, Al Horford, Marcus Smart",9,3,5,1,3,0.5625,0,2021-22,BOS,18.75,2,8
+56,Derrick White,1628401,4,8,7,2,4,1.0,1,0,0,"Jayson Tatum, Derrick White, Daniel Theis, Al Horford, Marcus Smart",9,3,5,1,3,0.5625,0,2021-22,BOS,18.75,1,8
+57,Daniel Theis,1628464,4,8,7,2,4,0.25,2,2,0,"Jayson Tatum, Derrick White, Daniel Theis, Al Horford, Marcus Smart",9,3,5,1,3,0.5625,0,2021-22,BOS,18.75,4,8
+58,Al Horford,201143,4,8,7,3,4,1.5,0,1,0,"Jayson Tatum, Derrick White, Daniel Theis, Al Horford, Marcus Smart",9,3,5,1,3,0.5625,0,2021-22,BOS,28.125,1,8
+59,Marcus Smart,203935,4,8,7,0,4,0.0,0,0,0,"Jayson Tatum, Derrick White, Daniel Theis, Al Horford, Marcus Smart",9,3,5,1,3,0.5625,0,2021-22,BOS,0.0,0,8
+60,Jaylen Brown,1627759,3,4,3,0,3,0.0,0,0,0,"Jaylen Brown, Robert Williams III, Grant Williams, Aaron Nesmith, Payton Pritchard",6,0,0,1,4,0.6,4,2021-22,BOS,0.0,0,4
+61,Robert Williams III,1629057,3,4,3,0,3,0.0,0,0,2,"Jaylen Brown, Robert Williams III, Grant Williams, Aaron Nesmith, Payton Pritchard",6,0,0,1,4,0.6,4,2021-22,BOS,0.0,0,4
+62,Grant Williams,1629684,3,4,3,0,3,0.0,0,0,0,"Jaylen Brown, Robert Williams III, Grant Williams, Aaron Nesmith, Payton Pritchard",6,0,0,1,4,0.6,4,2021-22,BOS,0.0,0,4
+63,Aaron Nesmith,1630174,3,4,3,0,3,0.0,0,1,0,"Jaylen Brown, Robert Williams III, Grant Williams, Aaron Nesmith, Payton Pritchard",6,0,0,1,4,0.6,4,2021-22,BOS,0.0,1,4
+64,Payton Pritchard,1630202,3,4,3,5,3,0.625,0,3,2,"Jaylen Brown, Robert Williams III, Grant Williams, Aaron Nesmith, Payton Pritchard",6,0,0,1,4,0.6,4,2021-22,BOS,93.75,3,4
+65,Jaylen Brown,1627759,6,14,14,4,8,0.5,1,2,2,"Jaylen Brown, Jayson Tatum, Derrick White, Daniel Theis, Grant Williams",20,4,5,3,6,0.7307692307692307,5,2021-22,BOS,21.428571428571427,3,11
+66,Jayson Tatum,1628369,6,14,14,9,8,0.8,2,2,3,"Jaylen Brown, Jayson Tatum, Derrick White, Daniel Theis, Grant Williams",20,4,5,3,6,0.7307692307692307,5,2021-22,BOS,48.214285714285715,4,11
+67,Derrick White,1628401,6,14,14,0,8,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Daniel Theis, Grant Williams",20,4,5,3,6,0.7307692307692307,5,2021-22,BOS,0.0,0,11
+68,Daniel Theis,1628464,6,14,14,4,8,0.6666666666666666,2,1,0,"Jaylen Brown, Jayson Tatum, Derrick White, Daniel Theis, Grant Williams",20,4,5,3,6,0.7307692307692307,5,2021-22,BOS,21.428571428571427,3,11
+69,Grant Williams,1629684,6,14,14,3,8,1.5,0,1,0,"Jaylen Brown, Jayson Tatum, Derrick White, Daniel Theis, Grant Williams",20,4,5,3,6,0.7307692307692307,5,2021-22,BOS,16.071428571428573,1,11
+70,Luke Kornet,1628436,4,8,7,2,15,0.5,2,0,0,"Luke Kornet, Daniel Theis, Juwan Morgan, Aaron Nesmith, Nik Stauskas",8,2,5,1,4,0.4,2,2021-22,BOS,18.75,2,9
+71,Daniel Theis,1628464,4,8,7,2,15,1.0,1,0,0,"Luke Kornet, Daniel Theis, Juwan Morgan, Aaron Nesmith, Nik Stauskas",8,2,5,1,4,0.4,2,2021-22,BOS,18.75,1,9
+72,Juwan Morgan,1629752,4,8,7,1,15,0.25,0,1,2,"Luke Kornet, Daniel Theis, Juwan Morgan, Aaron Nesmith, Nik Stauskas",8,2,5,1,4,0.4,2,2021-22,BOS,9.375,1,9
+73,Aaron Nesmith,1630174,4,8,7,0,15,0.0,1,1,0,"Luke Kornet, Daniel Theis, Juwan Morgan, Aaron Nesmith, Nik Stauskas",8,2,5,1,4,0.4,2,2021-22,BOS,0.0,2,9
+74,Nik Stauskas,203917,4,8,7,3,15,0.5,1,2,0,"Luke Kornet, Daniel Theis, Juwan Morgan, Aaron Nesmith, Nik Stauskas",8,2,5,1,4,0.4,2,2021-22,BOS,28.125,3,9
+75,Jaylen Brown,1627759,2,4,5,2,6,1.0,1,0,0,"Jaylen Brown, Derrick White, Robert Williams III, Payton Pritchard, Marcus Smart",4,1,2,0,1,0.5,2,2021-22,BOS,37.5,1,3
+76,Derrick White,1628401,2,4,5,0,6,0.0,1,0,0,"Jaylen Brown, Derrick White, Robert Williams III, Payton Pritchard, Marcus Smart",4,1,2,0,1,0.5,2,2021-22,BOS,0.0,1,3
+77,Robert Williams III,1629057,2,4,5,2,6,1.0,0,0,2,"Jaylen Brown, Derrick White, Robert Williams III, Payton Pritchard, Marcus Smart",4,1,2,0,1,0.5,2,2021-22,BOS,37.5,0,3
+78,Payton Pritchard,1630202,2,4,5,0,6,0.0,0,1,0,"Jaylen Brown, Derrick White, Robert Williams III, Payton Pritchard, Marcus Smart",4,1,2,0,1,0.5,2,2021-22,BOS,0.0,1,3
+79,Marcus Smart,203935,2,4,5,0,6,0.0,0,0,0,"Jaylen Brown, Derrick White, Robert Williams III, Payton Pritchard, Marcus Smart",4,1,2,0,1,0.5,2,2021-22,BOS,0.0,0,3
+80,Jaylen Brown,1627759,13,25,27,17,22,0.9444444444444444,5,4,0,"Jaylen Brown, Grant Williams, Payton Pritchard, Al Horford, Marcus Smart",43,5,7,10,12,1.0238095238095237,4,2021-22,BOS,51.0,9,19
+81,Grant Williams,1629684,13,25,27,7,22,0.7,1,3,2,"Jaylen Brown, Grant Williams, Payton Pritchard, Al Horford, Marcus Smart",43,5,7,10,12,1.0238095238095237,4,2021-22,BOS,21.0,4,19
+82,Payton Pritchard,1630202,13,25,27,3,22,1.5,0,1,0,"Jaylen Brown, Grant Williams, Payton Pritchard, Al Horford, Marcus Smart",43,5,7,10,12,1.0238095238095237,4,2021-22,BOS,9.0,1,19
+83,Al Horford,201143,13,25,27,5,22,1.25,1,1,0,"Jaylen Brown, Grant Williams, Payton Pritchard, Al Horford, Marcus Smart",43,5,7,10,12,1.0238095238095237,4,2021-22,BOS,15.0,2,19
+84,Marcus Smart,203935,13,25,27,11,22,1.375,0,3,2,"Jaylen Brown, Grant Williams, Payton Pritchard, Al Horford, Marcus Smart",43,5,7,10,12,1.0238095238095237,4,2021-22,BOS,33.0,3,19
+85,Derrick White,1628401,12,24,24,4,29,0.3333333333333333,4,1,2,"Derrick White, Daniel Theis, Grant Williams, Aaron Nesmith, Payton Pritchard",23,8,13,1,7,0.5,6,2021-22,BOS,12.5,5,20
+86,Daniel Theis,1628464,12,24,24,4,29,0.5,3,1,0,"Derrick White, Daniel Theis, Grant Williams, Aaron Nesmith, Payton Pritchard",23,8,13,1,7,0.5,6,2021-22,BOS,12.5,4,20
+87,Grant Williams,1629684,12,24,24,1,29,0.25,0,1,2,"Derrick White, Daniel Theis, Grant Williams, Aaron Nesmith, Payton Pritchard",23,8,13,1,7,0.5,6,2021-22,BOS,3.125,1,20
+88,Aaron Nesmith,1630174,12,24,24,4,29,0.6666666666666666,2,1,0,"Derrick White, Daniel Theis, Grant Williams, Aaron Nesmith, Payton Pritchard",23,8,13,1,7,0.5,6,2021-22,BOS,12.5,3,20
+89,Payton Pritchard,1630202,12,24,24,10,29,0.625,4,3,2,"Derrick White, Daniel Theis, Grant Williams, Aaron Nesmith, Payton Pritchard",23,8,13,1,7,0.5,6,2021-22,BOS,31.25,7,20
+90,Jaylen Brown,1627759,11,23,25,8,26,0.5714285714285714,5,1,2,"Jaylen Brown, Derrick White, Daniel Theis, Grant Williams, Marcus Smart",23,7,11,1,5,0.6388888888888888,6,2021-22,BOS,26.08695652173913,6,16
+91,Derrick White,1628401,11,23,25,5,26,0.625,3,1,1,"Jaylen Brown, Derrick White, Daniel Theis, Grant Williams, Marcus Smart",23,7,11,1,5,0.6388888888888888,6,2021-22,BOS,16.304347826086957,4,16
+92,Daniel Theis,1628464,11,23,25,2,26,0.5,2,0,0,"Jaylen Brown, Derrick White, Daniel Theis, Grant Williams, Marcus Smart",23,7,11,1,5,0.6388888888888888,6,2021-22,BOS,6.521739130434782,2,16
+93,Grant Williams,1629684,11,23,25,0,26,0.0,0,2,0,"Jaylen Brown, Derrick White, Daniel Theis, Grant Williams, Marcus Smart",23,7,11,1,5,0.6388888888888888,6,2021-22,BOS,0.0,2,16
+94,Marcus Smart,203935,11,23,25,8,26,1.3333333333333333,1,1,3,"Jaylen Brown, Derrick White, Daniel Theis, Grant Williams, Marcus Smart",23,7,11,1,5,0.6388888888888888,6,2021-22,BOS,26.08695652173913,2,16
+95,Jayson Tatum,1628369,9,18,15,6,16,0.5,4,1,2,"Jayson Tatum, Derrick White, Robert Williams III, Al Horford, Marcus Smart",22,5,8,2,6,0.6470588235294118,6,2021-22,BOS,25.0,5,14
+96,Derrick White,1628401,9,18,15,8,16,1.0,1,2,2,"Jayson Tatum, Derrick White, Robert Williams III, Al Horford, Marcus Smart",22,5,8,2,6,0.6470588235294118,6,2021-22,BOS,33.333333333333336,3,14
+97,Robert Williams III,1629057,9,18,15,8,16,1.0,3,0,2,"Jayson Tatum, Derrick White, Robert Williams III, Al Horford, Marcus Smart",22,5,8,2,6,0.6470588235294118,6,2021-22,BOS,33.333333333333336,3,14
+98,Al Horford,201143,9,18,15,0,16,0.0,0,2,0,"Jayson Tatum, Derrick White, Robert Williams III, Al Horford, Marcus Smart",22,5,8,2,6,0.6470588235294118,6,2021-22,BOS,0.0,2,14
+99,Marcus Smart,203935,9,18,15,0,16,0.0,0,1,0,"Jayson Tatum, Derrick White, Robert Williams III, Al Horford, Marcus Smart",22,5,8,2,6,0.6470588235294118,6,2021-22,BOS,0.0,1,14
+100,Jayson Tatum,1628369,5,10,11,2,13,0.25,2,2,0,"Jayson Tatum, Derrick White, Robert Williams III, Payton Pritchard, Al Horford",11,2,3,2,8,0.4583333333333333,2,2021-22,BOS,15.0,4,11
+101,Derrick White,1628401,5,10,11,4,13,0.6666666666666666,0,2,2,"Jayson Tatum, Derrick White, Robert Williams III, Payton Pritchard, Al Horford",11,2,3,2,8,0.4583333333333333,2,2021-22,BOS,30.0,2,11
+102,Robert Williams III,1629057,5,10,11,2,13,1.0,1,0,0,"Jayson Tatum, Derrick White, Robert Williams III, Payton Pritchard, Al Horford",11,2,3,2,8,0.4583333333333333,2,2021-22,BOS,15.0,1,11
+103,Payton Pritchard,1630202,5,10,11,0,13,0.0,0,2,0,"Jayson Tatum, Derrick White, Robert Williams III, Payton Pritchard, Al Horford",11,2,3,2,8,0.4583333333333333,2,2021-22,BOS,0.0,2,11
+104,Al Horford,201143,5,10,11,3,13,0.75,0,2,0,"Jayson Tatum, Derrick White, Robert Williams III, Payton Pritchard, Al Horford",11,2,3,2,8,0.4583333333333333,2,2021-22,BOS,22.5,2,11
+105,Jaylen Brown,1627759,4,9,9,2,10,0.5,2,0,0,"Jaylen Brown, Jayson Tatum, Payton Pritchard, Al Horford, Marcus Smart",17,4,5,3,4,0.85,2,2021-22,BOS,16.666666666666668,2,9
+106,Jayson Tatum,1628369,4,9,9,10,10,1.25,2,2,0,"Jaylen Brown, Jayson Tatum, Payton Pritchard, Al Horford, Marcus Smart",17,4,5,3,4,0.85,2,2021-22,BOS,83.33333333333333,4,9
+107,Payton Pritchard,1630202,4,9,9,0,10,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Payton Pritchard, Al Horford, Marcus Smart",17,4,5,3,4,0.85,2,2021-22,BOS,0.0,0,9
+108,Al Horford,201143,4,9,9,0,10,0.0,0,0,2,"Jaylen Brown, Jayson Tatum, Payton Pritchard, Al Horford, Marcus Smart",17,4,5,3,4,0.85,2,2021-22,BOS,0.0,0,9
+109,Marcus Smart,203935,4,9,9,5,10,0.8333333333333334,1,2,0,"Jaylen Brown, Jayson Tatum, Payton Pritchard, Al Horford, Marcus Smart",17,4,5,3,4,0.85,2,2021-22,BOS,41.666666666666664,3,9
+110,Jaylen Brown,1627759,16,30,27,14,38,0.5833333333333334,7,3,4,"Jaylen Brown, Derrick White, Grant Williams, Payton Pritchard, Al Horford",33,7,14,5,10,0.6111111111111112,6,2021-22,BOS,35.0,10,24
+111,Derrick White,1628401,16,30,27,7,38,0.7,4,1,0,"Jaylen Brown, Derrick White, Grant Williams, Payton Pritchard, Al Horford",33,7,14,5,10,0.6111111111111112,6,2021-22,BOS,17.5,5,24
+112,Grant Williams,1629684,16,30,27,6,38,0.75,1,3,0,"Jaylen Brown, Derrick White, Grant Williams, Payton Pritchard, Al Horford",33,7,14,5,10,0.6111111111111112,6,2021-22,BOS,15.0,4,24
+113,Payton Pritchard,1630202,16,30,27,0,38,0.0,1,2,0,"Jaylen Brown, Derrick White, Grant Williams, Payton Pritchard, Al Horford",33,7,14,5,10,0.6111111111111112,6,2021-22,BOS,0.0,3,24
+114,Al Horford,201143,16,30,27,6,38,1.0,1,1,2,"Jaylen Brown, Derrick White, Grant Williams, Payton Pritchard, Al Horford",33,7,14,5,10,0.6111111111111112,6,2021-22,BOS,15.0,2,24
+115,Jaylen Brown,1627759,3,8,6,3,7,1.5,0,1,0,"Jaylen Brown, Jayson Tatum, Derrick White, Daniel Theis, Al Horford",6,0,2,1,1,0.6,4,2021-22,BOS,28.125,1,3
+116,Jayson Tatum,1628369,3,8,6,0,7,0.0,1,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Daniel Theis, Al Horford",6,0,2,1,1,0.6,4,2021-22,BOS,0.0,1,3
+117,Derrick White,1628401,3,8,6,3,7,0.75,0,0,4,"Jaylen Brown, Jayson Tatum, Derrick White, Daniel Theis, Al Horford",6,0,2,1,1,0.6,4,2021-22,BOS,28.125,0,3
+118,Daniel Theis,1628464,3,8,6,0,7,0.0,1,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Daniel Theis, Al Horford",6,0,2,1,1,0.6,4,2021-22,BOS,0.0,1,3
+119,Al Horford,201143,3,8,6,0,7,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Daniel Theis, Al Horford",6,0,2,1,1,0.6,4,2021-22,BOS,0.0,0,3
+120,Jaylen Brown,1627759,31,66,62,24,66,0.75,7,6,7,"Jaylen Brown, Jayson Tatum, Robert Williams III, Grant Williams, Marcus Smart",72,17,31,8,23,0.5806451612903226,18,2021-22,BOS,27.272727272727273,13,54
+121,Jayson Tatum,1628369,31,66,62,7,66,0.23333333333333334,7,6,4,"Jaylen Brown, Jayson Tatum, Robert Williams III, Grant Williams, Marcus Smart",72,17,31,8,23,0.5806451612903226,18,2021-22,BOS,7.954545454545454,13,54
+122,Robert Williams III,1629057,31,66,62,8,66,0.6666666666666666,6,0,0,"Jaylen Brown, Jayson Tatum, Robert Williams III, Grant Williams, Marcus Smart",72,17,31,8,23,0.5806451612903226,18,2021-22,BOS,9.090909090909092,6,54
+123,Grant Williams,1629684,31,66,62,16,66,0.8,3,6,3,"Jaylen Brown, Jayson Tatum, Robert Williams III, Grant Williams, Marcus Smart",72,17,31,8,23,0.5806451612903226,18,2021-22,BOS,18.181818181818183,9,54
+124,Marcus Smart,203935,31,66,62,17,66,0.5666666666666667,8,5,4,"Jaylen Brown, Jayson Tatum, Robert Williams III, Grant Williams, Marcus Smart",72,17,31,8,23,0.5806451612903226,18,2021-22,BOS,19.318181818181817,13,54
+125,Juwan Morgan,1629752,3,5,5,0,3,0.0,0,0,0,"Juwan Morgan, Aaron Nesmith, Malik Fitts, Sam Hauser, Nik Stauskas",0,0,2,0,1,0.0,0,2021-22,BOS,0.0,0,3
+126,Aaron Nesmith,1630174,3,5,5,0,3,0.0,1,0,0,"Juwan Morgan, Aaron Nesmith, Malik Fitts, Sam Hauser, Nik Stauskas",0,0,2,0,1,0.0,0,2021-22,BOS,0.0,1,3
+127,Malik Fitts,1630238,3,5,5,0,3,0.0,0,0,0,"Juwan Morgan, Aaron Nesmith, Malik Fitts, Sam Hauser, Nik Stauskas",0,0,2,0,1,0.0,0,2021-22,BOS,0.0,0,3
+128,Sam Hauser,1630573,3,5,5,0,3,0.0,1,0,0,"Juwan Morgan, Aaron Nesmith, Malik Fitts, Sam Hauser, Nik Stauskas",0,0,2,0,1,0.0,0,2021-22,BOS,0.0,1,3
+129,Nik Stauskas,203917,3,5,5,0,3,0.0,0,1,0,"Juwan Morgan, Aaron Nesmith, Malik Fitts, Sam Hauser, Nik Stauskas",0,0,2,0,1,0.0,0,2021-22,BOS,0.0,1,3
+130,Jaylen Brown,1627759,3,6,5,4,5,0.6666666666666666,1,1,2,"Jaylen Brown, Derrick White, Robert Williams III, Grant Williams, Al Horford",4,1,3,0,3,0.2857142857142857,2,2021-22,BOS,50.0,2,6
+131,Derrick White,1628401,3,6,5,0,5,0.0,1,0,0,"Jaylen Brown, Derrick White, Robert Williams III, Grant Williams, Al Horford",4,1,3,0,3,0.2857142857142857,2,2021-22,BOS,0.0,1,6
+132,Robert Williams III,1629057,3,6,5,0,5,0.0,0,0,0,"Jaylen Brown, Derrick White, Robert Williams III, Grant Williams, Al Horford",4,1,3,0,3,0.2857142857142857,2,2021-22,BOS,0.0,0,6
+133,Grant Williams,1629684,3,6,5,0,5,0.0,1,2,0,"Jaylen Brown, Derrick White, Robert Williams III, Grant Williams, Al Horford",4,1,3,0,3,0.2857142857142857,2,2021-22,BOS,0.0,3,6
+134,Al Horford,201143,3,6,5,0,5,0.0,0,0,0,"Jaylen Brown, Derrick White, Robert Williams III, Grant Williams, Al Horford",4,1,3,0,3,0.2857142857142857,2,2021-22,BOS,0.0,0,6
+135,Luke Kornet,1628436,7,14,16,2,5,1.0,1,0,0,"Luke Kornet, Aaron Nesmith, Malik Fitts, Sam Hauser, Nik Stauskas",14,3,6,2,6,0.5384615384615384,2,2021-22,BOS,10.714285714285714,1,12
+136,Aaron Nesmith,1630174,7,14,16,2,5,0.3333333333333333,2,1,0,"Luke Kornet, Aaron Nesmith, Malik Fitts, Sam Hauser, Nik Stauskas",14,3,6,2,6,0.5384615384615384,2,2021-22,BOS,10.714285714285714,3,12
+137,Malik Fitts,1630238,7,14,16,5,5,0.8333333333333334,2,1,0,"Luke Kornet, Aaron Nesmith, Malik Fitts, Sam Hauser, Nik Stauskas",14,3,6,2,6,0.5384615384615384,2,2021-22,BOS,26.785714285714285,3,12
+138,Sam Hauser,1630573,7,14,16,2,5,0.5,0,1,2,"Luke Kornet, Aaron Nesmith, Malik Fitts, Sam Hauser, Nik Stauskas",14,3,6,2,6,0.5384615384615384,2,2021-22,BOS,10.714285714285714,1,12
+139,Nik Stauskas,203917,7,14,16,3,5,0.375,1,3,0,"Luke Kornet, Aaron Nesmith, Malik Fitts, Sam Hauser, Nik Stauskas",14,3,6,2,6,0.5384615384615384,2,2021-22,BOS,16.071428571428573,4,12
+140,Jaylen Brown,1627759,125,251,244,58,274,0.5,24,20,29,"Jaylen Brown, Jayson Tatum, Derrick White, Al Horford, Marcus Smart",264,63,120,28,89,0.5523012552301255,69,2021-22,BOS,17.330677290836654,44,209
+141,Jayson Tatum,1628369,125,251,244,76,274,0.5671641791044776,37,23,17,"Jaylen Brown, Jayson Tatum, Derrick White, Al Horford, Marcus Smart",264,63,120,28,89,0.5523012552301255,69,2021-22,BOS,22.709163346613547,60,209
+142,Derrick White,1628401,125,251,244,40,274,0.4878048780487805,19,18,11,"Jaylen Brown, Jayson Tatum, Derrick White, Al Horford, Marcus Smart",264,63,120,28,89,0.5523012552301255,69,2021-22,BOS,11.952191235059761,37,209
+143,Al Horford,201143,125,251,244,40,274,0.6896551724137931,14,12,8,"Jaylen Brown, Jayson Tatum, Derrick White, Al Horford, Marcus Smart",264,63,120,28,89,0.5523012552301255,69,2021-22,BOS,11.952191235059761,26,209
+144,Marcus Smart,203935,125,251,244,50,274,0.5681818181818182,26,16,4,"Jaylen Brown, Jayson Tatum, Derrick White, Al Horford, Marcus Smart",264,63,120,28,89,0.5523012552301255,69,2021-22,BOS,14.9402390438247,42,209
+145,Jaylen Brown,1627759,46,84,90,23,75,0.5476190476190477,11,8,4,"Jaylen Brown, Jayson Tatum, Derrick White, Grant Williams, Al Horford",93,13,34,17,38,0.5670731707317073,21,2021-22,BOS,20.535714285714285,19,72
+146,Jayson Tatum,1628369,46,84,90,27,75,0.54,12,9,8,"Jaylen Brown, Jayson Tatum, Derrick White, Grant Williams, Al Horford",93,13,34,17,38,0.5670731707317073,21,2021-22,BOS,24.107142857142858,21,72
+147,Derrick White,1628401,46,84,90,16,75,0.5714285714285714,4,10,1,"Jaylen Brown, Jayson Tatum, Derrick White, Grant Williams, Al Horford",93,13,34,17,38,0.5670731707317073,21,2021-22,BOS,14.285714285714286,14,72
+148,Grant Williams,1629684,46,84,90,14,75,0.5384615384615384,2,8,6,"Jaylen Brown, Jayson Tatum, Derrick White, Grant Williams, Al Horford",93,13,34,17,38,0.5670731707317073,21,2021-22,BOS,12.5,10,72
+149,Al Horford,201143,46,84,90,13,75,0.7222222222222222,5,3,2,"Jaylen Brown, Jayson Tatum, Derrick White, Grant Williams, Al Horford",93,13,34,17,38,0.5670731707317073,21,2021-22,BOS,11.607142857142858,8,72
+150,Jaylen Brown,1627759,8,18,18,10,13,0.7142857142857143,2,3,4,"Jaylen Brown, Jayson Tatum, Derrick White, Daniel Theis, Payton Pritchard",18,1,9,4,9,0.45,4,2021-22,BOS,41.666666666666664,5,18
+151,Jayson Tatum,1628369,8,18,18,3,13,0.3,2,3,0,"Jaylen Brown, Jayson Tatum, Derrick White, Daniel Theis, Payton Pritchard",18,1,9,4,9,0.45,4,2021-22,BOS,12.5,5,18
+152,Derrick White,1628401,8,18,18,0,13,0.0,2,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Daniel Theis, Payton Pritchard",18,1,9,4,9,0.45,4,2021-22,BOS,0.0,2,18
+153,Daniel Theis,1628464,8,18,18,2,13,0.5,2,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Daniel Theis, Payton Pritchard",18,1,9,4,9,0.45,4,2021-22,BOS,8.333333333333334,2,18
+154,Payton Pritchard,1630202,8,18,18,3,13,0.375,1,3,0,"Jaylen Brown, Jayson Tatum, Derrick White, Daniel Theis, Payton Pritchard",18,1,9,4,9,0.45,4,2021-22,BOS,12.5,4,18
+155,Jaylen Brown,1627759,3,7,9,2,13,1.0,0,0,2,"Jaylen Brown, Jayson Tatum, Derrick White, Grant Williams, Marcus Smart",6,2,3,0,3,0.42857142857142855,2,2021-22,BOS,21.428571428571427,0,6
+156,Jayson Tatum,1628369,3,7,9,2,13,0.5,1,1,0,"Jaylen Brown, Jayson Tatum, Derrick White, Grant Williams, Marcus Smart",6,2,3,0,3,0.42857142857142855,2,2021-22,BOS,21.428571428571427,2,6
+157,Derrick White,1628401,3,7,9,0,13,0.0,1,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Grant Williams, Marcus Smart",6,2,3,0,3,0.42857142857142855,2,2021-22,BOS,0.0,1,6
+158,Grant Williams,1629684,3,7,9,0,13,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Grant Williams, Marcus Smart",6,2,3,0,3,0.42857142857142855,2,2021-22,BOS,0.0,0,6
+159,Marcus Smart,203935,3,7,9,2,13,0.3333333333333333,1,2,0,"Jaylen Brown, Jayson Tatum, Derrick White, Grant Williams, Marcus Smart",6,2,3,0,3,0.42857142857142855,2,2021-22,BOS,21.428571428571427,3,6
+160,Jaylen Brown,1627759,35,68,69,12,60,0.375,10,6,0,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Al Horford",71,23,34,6,25,0.5725806451612904,9,2021-22,BOS,13.235294117647058,16,59
+161,Jayson Tatum,1628369,35,68,69,14,60,0.5,7,5,5,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Al Horford",71,23,34,6,25,0.5725806451612904,9,2021-22,BOS,15.441176470588236,12,59
+162,Derrick White,1628401,35,68,69,15,60,0.4411764705882353,7,10,0,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Al Horford",71,23,34,6,25,0.5725806451612904,9,2021-22,BOS,16.544117647058822,17,59
+163,Robert Williams III,1629057,35,68,69,12,60,1.0,6,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Al Horford",71,23,34,6,25,0.5725806451612904,9,2021-22,BOS,13.235294117647058,6,59
+164,Al Horford,201143,35,68,69,18,60,1.0,4,4,4,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Al Horford",71,23,34,6,25,0.5725806451612904,9,2021-22,BOS,19.852941176470587,8,59
+165,Jaylen Brown,1627759,167,321,322,91,373,0.56875,44,31,15,"Jaylen Brown, Jayson Tatum, Grant Williams, Al Horford, Marcus Smart",351,82,158,43,126,0.5627009646302251,69,2021-22,BOS,21.261682242990656,75,284
+166,Jayson Tatum,1628369,167,321,322,102,373,0.6824324324324325,39,27,20,"Jaylen Brown, Jayson Tatum, Grant Williams, Al Horford, Marcus Smart",351,82,158,43,126,0.5627009646302251,69,2021-22,BOS,23.83177570093458,66,284
+167,Grant Williams,1629684,167,321,322,49,373,0.5,22,21,14,"Jaylen Brown, Jayson Tatum, Grant Williams, Al Horford, Marcus Smart",351,82,158,43,126,0.5627009646302251,69,2021-22,BOS,11.448598130841122,43,284
+168,Al Horford,201143,167,321,322,57,373,0.6195652173913043,23,23,4,"Jaylen Brown, Jayson Tatum, Grant Williams, Al Horford, Marcus Smart",351,82,158,43,126,0.5627009646302251,69,2021-22,BOS,13.317757009345794,46,284
+169,Marcus Smart,203935,167,321,322,52,373,0.41935483870967744,30,24,16,"Jaylen Brown, Jayson Tatum, Grant Williams, Al Horford, Marcus Smart",351,82,158,43,126,0.5627009646302251,69,2021-22,BOS,12.149532710280374,54,284
+170,Jayson Tatum,1628369,31,58,61,26,70,0.6190476190476191,11,6,9,"Jayson Tatum, Derrick White, Grant Williams, Payton Pritchard, Al Horford",65,15,27,7,17,0.6372549019607843,15,2021-22,BOS,33.62068965517241,17,44
+171,Derrick White,1628401,31,58,61,16,70,0.6666666666666666,7,3,4,"Jayson Tatum, Derrick White, Grant Williams, Payton Pritchard, Al Horford",65,15,27,7,17,0.6372549019607843,15,2021-22,BOS,20.689655172413794,10,44
+172,Grant Williams,1629684,31,58,61,7,70,0.5833333333333334,2,3,2,"Jayson Tatum, Derrick White, Grant Williams, Payton Pritchard, Al Horford",65,15,27,7,17,0.6372549019607843,15,2021-22,BOS,9.051724137931034,5,44
+173,Payton Pritchard,1630202,31,58,61,12,70,0.8571428571428571,3,4,0,"Jayson Tatum, Derrick White, Grant Williams, Payton Pritchard, Al Horford",65,15,27,7,17,0.6372549019607843,15,2021-22,BOS,15.517241379310345,7,44
+174,Al Horford,201143,31,58,61,4,70,0.4,4,1,0,"Jayson Tatum, Derrick White, Grant Williams, Payton Pritchard, Al Horford",65,15,27,7,17,0.6372549019607843,15,2021-22,BOS,5.172413793103448,5,44
+175,Jaylen Brown,1627759,6,11,11,4,7,0.5,2,2,0,"Jaylen Brown, Jayson Tatum, Robert Williams III, Aaron Nesmith, Payton Pritchard",15,6,7,1,4,0.6818181818181818,0,2021-22,BOS,27.272727272727273,4,11
+176,Jayson Tatum,1628369,6,11,11,2,7,0.3333333333333333,2,1,0,"Jaylen Brown, Jayson Tatum, Robert Williams III, Aaron Nesmith, Payton Pritchard",15,6,7,1,4,0.6818181818181818,0,2021-22,BOS,13.636363636363637,3,11
+177,Robert Williams III,1629057,6,11,11,4,7,1.0,2,0,0,"Jaylen Brown, Jayson Tatum, Robert Williams III, Aaron Nesmith, Payton Pritchard",15,6,7,1,4,0.6818181818181818,0,2021-22,BOS,27.272727272727273,2,11
+178,Aaron Nesmith,1630174,6,11,11,0,7,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Robert Williams III, Aaron Nesmith, Payton Pritchard",15,6,7,1,4,0.6818181818181818,0,2021-22,BOS,0.0,0,11
+179,Payton Pritchard,1630202,6,11,11,5,7,1.25,1,1,0,"Jaylen Brown, Jayson Tatum, Robert Williams III, Aaron Nesmith, Payton Pritchard",15,6,7,1,4,0.6818181818181818,0,2021-22,BOS,34.09090909090909,2,11
+180,Jaylen Brown,1627759,5,8,9,2,6,0.3333333333333333,2,1,0,"Jaylen Brown, Jayson Tatum, Derrick White, Daniel Theis, Marcus Smart",9,3,6,1,3,0.5,0,2021-22,BOS,18.75,3,9
+181,Jayson Tatum,1628369,5,8,9,2,6,0.3333333333333333,2,1,0,"Jaylen Brown, Jayson Tatum, Derrick White, Daniel Theis, Marcus Smart",9,3,6,1,3,0.5,0,2021-22,BOS,18.75,3,9
+182,Derrick White,1628401,5,8,9,0,6,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Daniel Theis, Marcus Smart",9,3,6,1,3,0.5,0,2021-22,BOS,0.0,0,9
+183,Daniel Theis,1628464,5,8,9,5,6,1.25,1,1,0,"Jaylen Brown, Jayson Tatum, Derrick White, Daniel Theis, Marcus Smart",9,3,6,1,3,0.5,0,2021-22,BOS,46.875,2,9
+184,Marcus Smart,203935,5,8,9,0,6,0.0,1,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Daniel Theis, Marcus Smart",9,3,6,1,3,0.5,0,2021-22,BOS,0.0,1,9
+185,Luke Kornet,1628436,2,6,5,3,0,1.5,0,1,0,"Luke Kornet, Juwan Morgan, Aaron Nesmith, Sam Hauser, Nik Stauskas",6,0,0,1,3,0.6,4,2021-22,BOS,37.5,1,3
+186,Juwan Morgan,1629752,2,6,5,0,0,0.0,0,0,0,"Luke Kornet, Juwan Morgan, Aaron Nesmith, Sam Hauser, Nik Stauskas",6,0,0,1,3,0.6,4,2021-22,BOS,0.0,0,3
+187,Aaron Nesmith,1630174,2,6,5,3,0,0.5,0,1,4,"Luke Kornet, Juwan Morgan, Aaron Nesmith, Sam Hauser, Nik Stauskas",6,0,0,1,3,0.6,4,2021-22,BOS,37.5,1,3
+188,Sam Hauser,1630573,2,6,5,0,0,0.0,0,0,0,"Luke Kornet, Juwan Morgan, Aaron Nesmith, Sam Hauser, Nik Stauskas",6,0,0,1,3,0.6,4,2021-22,BOS,0.0,0,3
+189,Nik Stauskas,203917,2,6,5,0,0,0.0,0,1,0,"Luke Kornet, Juwan Morgan, Aaron Nesmith, Sam Hauser, Nik Stauskas",6,0,0,1,3,0.6,4,2021-22,BOS,0.0,1,3
+190,Jaylen Brown,1627759,16,34,35,4,46,0.3333333333333333,3,1,4,"Jaylen Brown, Jayson Tatum, Daniel Theis, Grant Williams, Marcus Smart",34,5,11,5,14,0.5666666666666667,10,2021-22,BOS,8.823529411764707,4,25
+191,Jayson Tatum,1628369,16,34,35,12,46,0.6,3,5,4,"Jaylen Brown, Jayson Tatum, Daniel Theis, Grant Williams, Marcus Smart",34,5,11,5,14,0.5666666666666667,10,2021-22,BOS,26.470588235294116,8,25
+192,Daniel Theis,1628464,16,34,35,2,46,0.3333333333333333,1,2,0,"Jaylen Brown, Jayson Tatum, Daniel Theis, Grant Williams, Marcus Smart",34,5,11,5,14,0.5666666666666667,10,2021-22,BOS,4.411764705882353,3,25
+193,Grant Williams,1629684,16,34,35,3,46,0.75,0,2,0,"Jaylen Brown, Jayson Tatum, Daniel Theis, Grant Williams, Marcus Smart",34,5,11,5,14,0.5666666666666667,10,2021-22,BOS,6.617647058823529,2,25
+194,Marcus Smart,203935,16,34,35,13,46,0.7222222222222222,4,4,2,"Jaylen Brown, Jayson Tatum, Daniel Theis, Grant Williams, Marcus Smart",34,5,11,5,14,0.5666666666666667,10,2021-22,BOS,28.676470588235293,8,25
+195,Jayson Tatum,1628369,14,28,28,8,33,0.6666666666666666,3,3,1,"Jayson Tatum, Derrick White, Payton Pritchard, Al Horford, Marcus Smart",41,10,13,6,14,0.7592592592592593,3,2021-22,BOS,21.428571428571427,6,27
+196,Derrick White,1628401,14,28,28,5,33,0.8333333333333334,1,2,0,"Jayson Tatum, Derrick White, Payton Pritchard, Al Horford, Marcus Smart",41,10,13,6,14,0.7592592592592593,3,2021-22,BOS,13.392857142857142,3,27
+197,Payton Pritchard,1630202,14,28,28,3,33,0.5,0,3,0,"Jayson Tatum, Derrick White, Payton Pritchard, Al Horford, Marcus Smart",41,10,13,6,14,0.7592592592592593,3,2021-22,BOS,8.035714285714286,3,27
+198,Al Horford,201143,14,28,28,10,33,0.8333333333333334,3,3,1,"Jayson Tatum, Derrick White, Payton Pritchard, Al Horford, Marcus Smart",41,10,13,6,14,0.7592592592592593,3,2021-22,BOS,26.785714285714285,6,27
+199,Marcus Smart,203935,14,28,28,15,33,0.8333333333333334,6,3,1,"Jayson Tatum, Derrick White, Payton Pritchard, Al Horford, Marcus Smart",41,10,13,6,14,0.7592592592592593,3,2021-22,BOS,40.17857142857143,9,27
+200,Jaylen Brown,1627759,11,18,22,4,31,0.3333333333333333,6,0,0,"Jaylen Brown, Derrick White, Robert Williams III, Grant Williams, Marcus Smart",20,5,12,2,3,0.5882352941176471,4,2021-22,BOS,16.666666666666668,6,15
+201,Derrick White,1628401,11,18,22,5,31,0.625,1,2,2,"Jaylen Brown, Derrick White, Robert Williams III, Grant Williams, Marcus Smart",20,5,12,2,3,0.5882352941176471,4,2021-22,BOS,20.833333333333332,3,15
+202,Robert Williams III,1629057,11,18,22,0,31,0.0,0,0,0,"Jaylen Brown, Derrick White, Robert Williams III, Grant Williams, Marcus Smart",20,5,12,2,3,0.5882352941176471,4,2021-22,BOS,0.0,0,15
+203,Grant Williams,1629684,11,18,22,3,31,0.75,1,1,0,"Jaylen Brown, Derrick White, Robert Williams III, Grant Williams, Marcus Smart",20,5,12,2,3,0.5882352941176471,4,2021-22,BOS,12.5,2,15
+204,Marcus Smart,203935,11,18,22,8,31,0.8,4,0,2,"Jaylen Brown, Derrick White, Robert Williams III, Grant Williams, Marcus Smart",20,5,12,2,3,0.5882352941176471,4,2021-22,BOS,33.333333333333336,4,15
+205,Jaylen Brown,1627759,3,4,5,0,6,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Daniel Theis, Payton Pritchard, Marcus Smart",3,0,0,1,4,0.375,0,2021-22,BOS,0.0,0,4
+206,Jayson Tatum,1628369,3,4,5,0,6,0.0,0,1,0,"Jaylen Brown, Jayson Tatum, Daniel Theis, Payton Pritchard, Marcus Smart",3,0,0,1,4,0.375,0,2021-22,BOS,0.0,1,4
+207,Daniel Theis,1628464,3,4,5,0,6,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Daniel Theis, Payton Pritchard, Marcus Smart",3,0,0,1,4,0.375,0,2021-22,BOS,0.0,0,4
+208,Payton Pritchard,1630202,3,4,5,3,6,0.75,0,2,0,"Jaylen Brown, Jayson Tatum, Daniel Theis, Payton Pritchard, Marcus Smart",3,0,0,1,4,0.375,0,2021-22,BOS,56.25,2,4
+209,Marcus Smart,203935,3,4,5,0,6,0.0,0,1,0,"Jaylen Brown, Jayson Tatum, Daniel Theis, Payton Pritchard, Marcus Smart",3,0,0,1,4,0.375,0,2021-22,BOS,0.0,1,4
+210,Daniel Theis,1628464,2,3,3,0,0,0.0,0,0,0,"Daniel Theis, Juwan Morgan, Aaron Nesmith, Malik Fitts, Nik Stauskas",2,0,0,0,1,0.5,2,2021-22,BOS,0.0,0,1
+211,Juwan Morgan,1629752,2,3,3,0,0,0.0,0,0,0,"Daniel Theis, Juwan Morgan, Aaron Nesmith, Malik Fitts, Nik Stauskas",2,0,0,0,1,0.5,2,2021-22,BOS,0.0,0,1
+212,Aaron Nesmith,1630174,2,3,3,0,0,0.0,0,1,0,"Daniel Theis, Juwan Morgan, Aaron Nesmith, Malik Fitts, Nik Stauskas",2,0,0,0,1,0.5,2,2021-22,BOS,0.0,1,1
+213,Malik Fitts,1630238,2,3,3,0,0,0.0,0,0,0,"Daniel Theis, Juwan Morgan, Aaron Nesmith, Malik Fitts, Nik Stauskas",2,0,0,0,1,0.5,2,2021-22,BOS,0.0,0,1
+214,Nik Stauskas,203917,2,3,3,2,0,1.0,0,0,2,"Daniel Theis, Juwan Morgan, Aaron Nesmith, Malik Fitts, Nik Stauskas",2,0,0,0,1,0.5,2,2021-22,BOS,50.0,0,1
+215,Jaylen Brown,1627759,8,15,18,2,20,0.25,4,0,0,"Jaylen Brown, Derrick White, Robert Williams III, Grant Williams, Payton Pritchard",10,2,7,0,4,0.3333333333333333,8,2021-22,BOS,10.0,4,11
+216,Derrick White,1628401,8,15,18,4,20,0.5,1,1,4,"Jaylen Brown, Derrick White, Robert Williams III, Grant Williams, Payton Pritchard",10,2,7,0,4,0.3333333333333333,8,2021-22,BOS,20.0,2,11
+217,Robert Williams III,1629057,8,15,18,4,20,0.6666666666666666,2,0,2,"Jaylen Brown, Derrick White, Robert Williams III, Grant Williams, Payton Pritchard",10,2,7,0,4,0.3333333333333333,8,2021-22,BOS,20.0,2,11
+218,Grant Williams,1629684,8,15,18,0,20,0.0,0,0,2,"Jaylen Brown, Derrick White, Robert Williams III, Grant Williams, Payton Pritchard",10,2,7,0,4,0.3333333333333333,8,2021-22,BOS,0.0,0,11
+219,Payton Pritchard,1630202,8,15,18,0,20,0.0,0,3,0,"Jaylen Brown, Derrick White, Robert Williams III, Grant Williams, Payton Pritchard",10,2,7,0,4,0.3333333333333333,8,2021-22,BOS,0.0,3,11
+220,Jaylen Brown,1627759,34,67,65,32,57,0.7619047619047619,11,6,9,"Jaylen Brown, Jayson Tatum, Grant Williams, Payton Pritchard, Al Horford",80,15,23,12,30,0.6451612903225806,19,2021-22,BOS,35.82089552238806,17,53
+221,Jayson Tatum,1628369,34,67,65,16,57,0.5714285714285714,3,9,4,"Jaylen Brown, Jayson Tatum, Grant Williams, Payton Pritchard, Al Horford",80,15,23,12,30,0.6451612903225806,19,2021-22,BOS,17.91044776119403,12,53
+222,Grant Williams,1629684,34,67,65,10,57,0.625,2,5,2,"Jaylen Brown, Jayson Tatum, Grant Williams, Payton Pritchard, Al Horford",80,15,23,12,30,0.6451612903225806,19,2021-22,BOS,11.194029850746269,7,53
+223,Payton Pritchard,1630202,34,67,65,8,57,0.5,3,5,0,"Jaylen Brown, Jayson Tatum, Grant Williams, Payton Pritchard, Al Horford",80,15,23,12,30,0.6451612903225806,19,2021-22,BOS,8.955223880597014,8,53
+224,Al Horford,201143,34,67,65,14,57,0.6363636363636364,4,5,4,"Jaylen Brown, Jayson Tatum, Grant Williams, Payton Pritchard, Al Horford",80,15,23,12,30,0.6451612903225806,19,2021-22,BOS,15.671641791044776,9,53
+225,Jayson Tatum,1628369,13,27,26,13,11,0.5909090909090909,7,3,2,"Jayson Tatum, Robert Williams III, Grant Williams, Payton Pritchard, Marcus Smart",35,7,13,4,12,0.603448275862069,9,2021-22,BOS,36.111111111111114,10,25
+226,Robert Williams III,1629057,13,27,26,3,11,1.5,1,0,1,"Jayson Tatum, Robert Williams III, Grant Williams, Payton Pritchard, Marcus Smart",35,7,13,4,12,0.603448275862069,9,2021-22,BOS,8.333333333333334,1,25
+227,Grant Williams,1629684,13,27,26,8,11,1.0,1,0,6,"Jayson Tatum, Robert Williams III, Grant Williams, Payton Pritchard, Marcus Smart",35,7,13,4,12,0.603448275862069,9,2021-22,BOS,22.22222222222222,1,25
+228,Payton Pritchard,1630202,13,27,26,5,11,0.8333333333333334,1,2,0,"Jayson Tatum, Robert Williams III, Grant Williams, Payton Pritchard, Marcus Smart",35,7,13,4,12,0.603448275862069,9,2021-22,BOS,13.88888888888889,3,25
+229,Marcus Smart,203935,13,27,26,6,11,0.3,3,7,0,"Jayson Tatum, Robert Williams III, Grant Williams, Payton Pritchard, Marcus Smart",35,7,13,4,12,0.603448275862069,9,2021-22,BOS,16.666666666666668,10,25
+230,Jaylen Brown,1627759,2,4,5,0,9,0.0,1,1,0,"Jaylen Brown, Jayson Tatum, Derrick White, Daniel Theis, Aaron Nesmith",2,0,1,0,2,0.25,2,2021-22,BOS,0.0,2,3
+231,Jayson Tatum,1628369,2,4,5,2,9,1.0,0,0,2,"Jaylen Brown, Jayson Tatum, Derrick White, Daniel Theis, Aaron Nesmith",2,0,1,0,2,0.25,2,2021-22,BOS,37.5,0,3
+232,Derrick White,1628401,2,4,5,0,9,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Daniel Theis, Aaron Nesmith",2,0,1,0,2,0.25,2,2021-22,BOS,0.0,0,3
+233,Daniel Theis,1628464,2,4,5,0,9,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Daniel Theis, Aaron Nesmith",2,0,1,0,2,0.25,2,2021-22,BOS,0.0,0,3
+234,Aaron Nesmith,1630174,2,4,5,0,9,0.0,0,1,0,"Jaylen Brown, Jayson Tatum, Derrick White, Daniel Theis, Aaron Nesmith",2,0,1,0,2,0.25,2,2021-22,BOS,0.0,1,3
+235,Jayson Tatum,1628369,26,52,52,24,73,0.75,7,6,7,"Jayson Tatum, Derrick White, Daniel Theis, Grant Williams, Payton Pritchard",54,7,13,12,26,0.6428571428571429,7,2021-22,BOS,34.61538461538461,13,39
+236,Derrick White,1628401,26,52,52,8,73,0.4444444444444444,2,7,0,"Jayson Tatum, Derrick White, Daniel Theis, Grant Williams, Payton Pritchard",54,7,13,12,26,0.6428571428571429,7,2021-22,BOS,11.538461538461538,9,39
+237,Daniel Theis,1628464,26,52,52,7,73,0.7,3,2,0,"Jayson Tatum, Derrick White, Daniel Theis, Grant Williams, Payton Pritchard",54,7,13,12,26,0.6428571428571429,7,2021-22,BOS,10.096153846153847,5,39
+238,Grant Williams,1629684,26,52,52,0,73,0.0,1,2,0,"Jayson Tatum, Derrick White, Daniel Theis, Grant Williams, Payton Pritchard",54,7,13,12,26,0.6428571428571429,7,2021-22,BOS,0.0,3,39
+239,Payton Pritchard,1630202,26,52,52,15,73,0.8333333333333334,0,9,0,"Jayson Tatum, Derrick White, Daniel Theis, Grant Williams, Payton Pritchard",54,7,13,12,26,0.6428571428571429,7,2021-22,BOS,21.634615384615383,9,39
+240,Jayson Tatum,1628369,5,9,8,0,13,0.0,0,1,0,"Jayson Tatum, Derrick White, Robert Williams III, Grant Williams, Marcus Smart",0,0,2,0,5,0.0,0,2021-22,BOS,0.0,1,7
+241,Derrick White,1628401,5,9,8,0,13,0.0,1,1,0,"Jayson Tatum, Derrick White, Robert Williams III, Grant Williams, Marcus Smart",0,0,2,0,5,0.0,0,2021-22,BOS,0.0,2,7
+242,Robert Williams III,1629057,5,9,8,0,13,0.0,1,0,0,"Jayson Tatum, Derrick White, Robert Williams III, Grant Williams, Marcus Smart",0,0,2,0,5,0.0,0,2021-22,BOS,0.0,1,7
+243,Grant Williams,1629684,5,9,8,0,13,0.0,0,0,0,"Jayson Tatum, Derrick White, Robert Williams III, Grant Williams, Marcus Smart",0,0,2,0,5,0.0,0,2021-22,BOS,0.0,0,7
+244,Marcus Smart,203935,5,9,8,0,13,0.0,0,3,0,"Jayson Tatum, Derrick White, Robert Williams III, Grant Williams, Marcus Smart",0,0,2,0,5,0.0,0,2021-22,BOS,0.0,3,7
+245,Jayson Tatum,1628369,3,7,7,2,6,0.3333333333333333,2,1,0,"Jayson Tatum, Robert Williams III, Grant Williams, Payton Pritchard, Al Horford",4,2,4,0,2,0.3333333333333333,0,2021-22,BOS,21.428571428571427,3,6
+246,Robert Williams III,1629057,3,7,7,2,6,1.0,1,0,0,"Jayson Tatum, Robert Williams III, Grant Williams, Payton Pritchard, Al Horford",4,2,4,0,2,0.3333333333333333,0,2021-22,BOS,21.428571428571427,1,6
+247,Grant Williams,1629684,3,7,7,0,6,0.0,1,1,0,"Jayson Tatum, Robert Williams III, Grant Williams, Payton Pritchard, Al Horford",4,2,4,0,2,0.3333333333333333,0,2021-22,BOS,0.0,2,6
+248,Payton Pritchard,1630202,3,7,7,0,6,0.0,0,0,0,"Jayson Tatum, Robert Williams III, Grant Williams, Payton Pritchard, Al Horford",4,2,4,0,2,0.3333333333333333,0,2021-22,BOS,0.0,0,6
+249,Al Horford,201143,3,7,7,0,6,0.0,0,0,0,"Jayson Tatum, Robert Williams III, Grant Williams, Payton Pritchard, Al Horford",4,2,4,0,2,0.3333333333333333,0,2021-22,BOS,0.0,0,6
+250,Luke Kornet,1628436,3,6,7,0,6,0.0,0,0,0,"Luke Kornet, Juwan Morgan, Aaron Nesmith, Malik Fitts, Nik Stauskas",6,0,0,2,5,0.6,0,2021-22,BOS,0.0,0,5
+251,Juwan Morgan,1629752,3,6,7,0,6,0.0,0,0,0,"Luke Kornet, Juwan Morgan, Aaron Nesmith, Malik Fitts, Nik Stauskas",6,0,0,2,5,0.6,0,2021-22,BOS,0.0,0,5
+252,Aaron Nesmith,1630174,3,6,7,0,6,0.0,0,1,0,"Luke Kornet, Juwan Morgan, Aaron Nesmith, Malik Fitts, Nik Stauskas",6,0,0,2,5,0.6,0,2021-22,BOS,0.0,1,5
+253,Malik Fitts,1630238,3,6,7,3,6,1.5,0,1,0,"Luke Kornet, Juwan Morgan, Aaron Nesmith, Malik Fitts, Nik Stauskas",6,0,0,2,5,0.6,0,2021-22,BOS,37.5,1,5
+254,Nik Stauskas,203917,3,6,7,3,6,0.5,0,3,0,"Luke Kornet, Juwan Morgan, Aaron Nesmith, Malik Fitts, Nik Stauskas",6,0,0,2,5,0.6,0,2021-22,BOS,37.5,3,5
+255,Jayson Tatum,1628369,3,6,5,7,4,0.5833333333333334,3,2,2,"Jayson Tatum, Derrick White, Daniel Theis, Payton Pritchard, Al Horford",7,1,3,1,2,0.5833333333333334,2,2021-22,BOS,87.5,5,5
+256,Derrick White,1628401,3,6,5,0,4,0.0,0,0,0,"Jayson Tatum, Derrick White, Daniel Theis, Payton Pritchard, Al Horford",7,1,3,1,2,0.5833333333333334,2,2021-22,BOS,0.0,0,5
+257,Daniel Theis,1628464,3,6,5,0,4,0.0,0,0,0,"Jayson Tatum, Derrick White, Daniel Theis, Payton Pritchard, Al Horford",7,1,3,1,2,0.5833333333333334,2,2021-22,BOS,0.0,0,5
+258,Payton Pritchard,1630202,3,6,5,0,4,0.0,0,0,0,"Jayson Tatum, Derrick White, Daniel Theis, Payton Pritchard, Al Horford",7,1,3,1,2,0.5833333333333334,2,2021-22,BOS,0.0,0,5
+259,Al Horford,201143,3,6,5,0,4,0.0,0,0,0,"Jayson Tatum, Derrick White, Daniel Theis, Payton Pritchard, Al Horford",7,1,3,1,2,0.5833333333333334,2,2021-22,BOS,0.0,0,5
+260,Jaylen Brown,1627759,15,25,24,14,40,0.6363636363636364,7,3,2,"Jaylen Brown, Jayson Tatum, Robert Williams III, Grant Williams, Payton Pritchard",34,6,11,6,12,0.6538461538461539,7,2021-22,BOS,42.0,10,23
+261,Jayson Tatum,1628369,15,25,24,13,40,0.9285714285714286,4,3,1,"Jaylen Brown, Jayson Tatum, Robert Williams III, Grant Williams, Payton Pritchard",34,6,11,6,12,0.6538461538461539,7,2021-22,BOS,39.0,7,23
+262,Robert Williams III,1629057,15,25,24,2,40,1.0,0,0,2,"Jaylen Brown, Jayson Tatum, Robert Williams III, Grant Williams, Payton Pritchard",34,6,11,6,12,0.6538461538461539,7,2021-22,BOS,6.0,0,23
+263,Grant Williams,1629684,15,25,24,5,40,0.625,0,3,2,"Jaylen Brown, Jayson Tatum, Robert Williams III, Grant Williams, Payton Pritchard",34,6,11,6,12,0.6538461538461539,7,2021-22,BOS,15.0,3,23
+264,Payton Pritchard,1630202,15,25,24,0,40,0.0,0,3,0,"Jaylen Brown, Jayson Tatum, Robert Williams III, Grant Williams, Payton Pritchard",34,6,11,6,12,0.6538461538461539,7,2021-22,BOS,0.0,3,23
+265,Jaylen Brown,1627759,17,33,34,18,27,0.8181818181818182,9,1,4,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Marcus Smart",40,15,22,1,8,0.6060606060606061,7,2021-22,BOS,40.90909090909091,10,30
+266,Jayson Tatum,1628369,17,33,34,2,27,0.16666666666666666,3,3,0,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Marcus Smart",40,15,22,1,8,0.6060606060606061,7,2021-22,BOS,4.545454545454546,6,30
+267,Derrick White,1628401,17,33,34,4,27,0.5,2,2,0,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Marcus Smart",40,15,22,1,8,0.6060606060606061,7,2021-22,BOS,9.090909090909092,4,30
+268,Robert Williams III,1629057,17,33,34,6,27,1.0,2,0,2,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Marcus Smart",40,15,22,1,8,0.6060606060606061,7,2021-22,BOS,13.636363636363637,2,30
+269,Marcus Smart,203935,17,33,34,10,27,0.5555555555555556,6,2,1,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Marcus Smart",40,15,22,1,8,0.6060606060606061,7,2021-22,BOS,22.727272727272727,8,30
+270,Daniel Theis,1628464,2,3,3,0,5,0.0,0,0,0,"Daniel Theis, Grant Williams, Aaron Nesmith, Payton Pritchard, Sam Hauser",3,0,0,1,3,0.5,0,2021-22,BOS,0.0,0,3
+271,Grant Williams,1629684,2,3,3,0,5,0.0,0,0,0,"Daniel Theis, Grant Williams, Aaron Nesmith, Payton Pritchard, Sam Hauser",3,0,0,1,3,0.5,0,2021-22,BOS,0.0,0,3
+272,Aaron Nesmith,1630174,2,3,3,0,5,0.0,0,0,0,"Daniel Theis, Grant Williams, Aaron Nesmith, Payton Pritchard, Sam Hauser",3,0,0,1,3,0.5,0,2021-22,BOS,0.0,0,3
+273,Payton Pritchard,1630202,2,3,3,0,5,0.0,0,1,0,"Daniel Theis, Grant Williams, Aaron Nesmith, Payton Pritchard, Sam Hauser",3,0,0,1,3,0.5,0,2021-22,BOS,0.0,1,3
+274,Sam Hauser,1630573,2,3,3,3,5,0.75,0,2,0,"Daniel Theis, Grant Williams, Aaron Nesmith, Payton Pritchard, Sam Hauser",3,0,0,1,3,0.5,0,2021-22,BOS,75.0,2,3
+275,Jayson Tatum,1628369,2,3,2,0,2,0.0,0,0,0,"Jayson Tatum, Daniel Theis, Grant Williams, Payton Pritchard, Marcus Smart",5,1,1,1,1,1.25,0,2021-22,BOS,0.0,0,2
+276,Daniel Theis,1628464,2,3,2,2,2,1.0,1,0,0,"Jayson Tatum, Daniel Theis, Grant Williams, Payton Pritchard, Marcus Smart",5,1,1,1,1,1.25,0,2021-22,BOS,50.0,1,2
+277,Grant Williams,1629684,2,3,2,3,2,1.5,0,1,0,"Jayson Tatum, Daniel Theis, Grant Williams, Payton Pritchard, Marcus Smart",5,1,1,1,1,1.25,0,2021-22,BOS,75.0,1,2
+278,Payton Pritchard,1630202,2,3,2,0,2,0.0,0,0,0,"Jayson Tatum, Daniel Theis, Grant Williams, Payton Pritchard, Marcus Smart",5,1,1,1,1,1.25,0,2021-22,BOS,0.0,0,2
+279,Marcus Smart,203935,2,3,2,0,2,0.0,0,0,0,"Jayson Tatum, Daniel Theis, Grant Williams, Payton Pritchard, Marcus Smart",5,1,1,1,1,1.25,0,2021-22,BOS,0.0,0,2
+280,Jaylen Brown,1627759,146,288,285,75,302,0.5597014925373134,33,28,13,"Jaylen Brown, Jayson Tatum, Robert Williams III, Al Horford, Marcus Smart",321,62,150,49,105,0.5611888111888111,66,2021-22,BOS,19.53125,61,255
+281,Jayson Tatum,1628369,146,288,285,86,302,0.5308641975308642,41,25,30,"Jaylen Brown, Jayson Tatum, Robert Williams III, Al Horford, Marcus Smart",321,62,150,49,105,0.5611888111888111,66,2021-22,BOS,22.395833333333332,66,255
+282,Robert Williams III,1629057,146,288,285,41,302,0.640625,30,0,4,"Jaylen Brown, Jayson Tatum, Robert Williams III, Al Horford, Marcus Smart",321,62,150,49,105,0.5611888111888111,66,2021-22,BOS,10.677083333333334,30,255
+283,Al Horford,201143,146,288,285,40,302,0.5128205128205128,16,20,6,"Jaylen Brown, Jayson Tatum, Robert Williams III, Al Horford, Marcus Smart",321,62,150,49,105,0.5611888111888111,66,2021-22,BOS,10.416666666666666,36,255
+284,Marcus Smart,203935,146,288,285,79,302,0.5895522388059702,30,32,13,"Jaylen Brown, Jayson Tatum, Robert Williams III, Al Horford, Marcus Smart",321,62,150,49,105,0.5611888111888111,66,2021-22,BOS,20.572916666666668,62,255
+285,Jaylen Brown,1627759,3,7,6,6,5,1.5,0,2,1,"Jaylen Brown, Jayson Tatum, Robert Williams III, Payton Pritchard, Marcus Smart",9,1,3,2,3,0.6428571428571429,4,2021-22,BOS,64.28571428571429,2,6
+286,Jayson Tatum,1628369,3,7,6,0,5,0.0,1,1,1,"Jaylen Brown, Jayson Tatum, Robert Williams III, Payton Pritchard, Marcus Smart",9,1,3,2,3,0.6428571428571429,4,2021-22,BOS,0.0,2,6
+287,Robert Williams III,1629057,3,7,6,2,5,0.5,2,0,0,"Jaylen Brown, Jayson Tatum, Robert Williams III, Payton Pritchard, Marcus Smart",9,1,3,2,3,0.6428571428571429,4,2021-22,BOS,21.428571428571427,2,6
+288,Payton Pritchard,1630202,3,7,6,1,5,0.5,0,0,2,"Jaylen Brown, Jayson Tatum, Robert Williams III, Payton Pritchard, Marcus Smart",9,1,3,2,3,0.6428571428571429,4,2021-22,BOS,10.714285714285714,0,6
+289,Marcus Smart,203935,3,7,6,0,5,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Robert Williams III, Payton Pritchard, Marcus Smart",9,1,3,2,3,0.6428571428571429,4,2021-22,BOS,0.0,0,6
+290,Jaylen Brown,1627759,56,112,111,29,131,0.5178571428571429,19,6,7,"Jaylen Brown, Jayson Tatum, Daniel Theis, Al Horford, Marcus Smart",133,29,55,15,39,0.6100917431192661,34,2021-22,BOS,19.419642857142858,25,94
+291,Jayson Tatum,1628369,56,112,111,39,131,0.5735294117647058,15,11,18,"Jaylen Brown, Jayson Tatum, Daniel Theis, Al Horford, Marcus Smart",133,29,55,15,39,0.6100917431192661,34,2021-22,BOS,26.116071428571427,26,94
+292,Daniel Theis,1628464,56,112,111,24,131,0.631578947368421,12,4,6,"Jaylen Brown, Jayson Tatum, Daniel Theis, Al Horford, Marcus Smart",133,29,55,15,39,0.6100917431192661,34,2021-22,BOS,16.071428571428573,16,94
+293,Al Horford,201143,56,112,111,23,131,0.8846153846153846,7,6,1,"Jaylen Brown, Jayson Tatum, Daniel Theis, Al Horford, Marcus Smart",133,29,55,15,39,0.6100917431192661,34,2021-22,BOS,15.401785714285714,13,94
+294,Marcus Smart,203935,56,112,111,18,131,0.6,2,12,2,"Jaylen Brown, Jayson Tatum, Daniel Theis, Al Horford, Marcus Smart",133,29,55,15,39,0.6100917431192661,34,2021-22,BOS,12.053571428571429,14,94
+295,Jayson Tatum,1628369,30,62,66,29,74,0.5178571428571429,18,6,9,"Jayson Tatum, Derrick White, Grant Williams, Al Horford, Marcus Smart",71,13,35,11,25,0.5378787878787878,13,2021-22,BOS,35.08064516129032,24,60
+296,Derrick White,1628401,30,62,66,8,74,0.4,5,4,2,"Jayson Tatum, Derrick White, Grant Williams, Al Horford, Marcus Smart",71,13,35,11,25,0.5378787878787878,13,2021-22,BOS,9.67741935483871,9,60
+297,Grant Williams,1629684,30,62,66,18,74,0.8181818181818182,6,4,2,"Jayson Tatum, Derrick White, Grant Williams, Al Horford, Marcus Smart",71,13,35,11,25,0.5378787878787878,13,2021-22,BOS,21.774193548387096,10,60
+298,Al Horford,201143,30,62,66,9,74,0.75,0,6,0,"Jayson Tatum, Derrick White, Grant Williams, Al Horford, Marcus Smart",71,13,35,11,25,0.5378787878787878,13,2021-22,BOS,10.887096774193548,6,60
+299,Marcus Smart,203935,30,62,66,7,74,0.3181818181818182,6,5,0,"Jayson Tatum, Derrick White, Grant Williams, Al Horford, Marcus Smart",71,13,35,11,25,0.5378787878787878,13,2021-22,BOS,8.46774193548387,11,60
+300,Jaylen Brown,1627759,44,89,88,39,102,0.6129032258064516,17,9,14,"Jaylen Brown, Derrick White, Grant Williams, Al Horford, Marcus Smart",104,24,50,11,32,0.5364583333333334,32,2021-22,BOS,32.86516853932584,26,82
+301,Derrick White,1628401,44,89,88,12,102,0.3333333333333333,11,5,4,"Jaylen Brown, Derrick White, Grant Williams, Al Horford, Marcus Smart",104,24,50,11,32,0.5364583333333334,32,2021-22,BOS,10.112359550561798,16,82
+302,Grant Williams,1629684,44,89,88,15,102,0.625,4,7,2,"Jaylen Brown, Derrick White, Grant Williams, Al Horford, Marcus Smart",104,24,50,11,32,0.5364583333333334,32,2021-22,BOS,12.640449438202246,11,82
+303,Al Horford,201143,44,89,88,23,102,0.7666666666666667,11,3,2,"Jaylen Brown, Derrick White, Grant Williams, Al Horford, Marcus Smart",104,24,50,11,32,0.5364583333333334,32,2021-22,BOS,19.382022471910112,14,82
+304,Marcus Smart,203935,44,89,88,15,102,0.375,7,8,10,"Jaylen Brown, Derrick White, Grant Williams, Al Horford, Marcus Smart",104,24,50,11,32,0.5364583333333334,32,2021-22,BOS,12.640449438202246,15,82
+305,Malcolm Brogdon,1627763,7,14,13,2,16,0.5,1,1,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Sam Hauser, Al Horford",24,6,8,4,7,0.8,0,2022-23,BOS,10.714285714285714,2,15
+306,Jayson Tatum,1628369,7,14,13,13,16,0.9285714285714286,3,4,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Sam Hauser, Al Horford",24,6,8,4,7,0.8,0,2022-23,BOS,69.64285714285714,7,15
+307,Derrick White,1628401,7,14,13,4,16,0.5,3,1,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Sam Hauser, Al Horford",24,6,8,4,7,0.8,0,2022-23,BOS,21.428571428571427,4,15
+308,Sam Hauser,1630573,7,14,13,3,16,1.5,0,1,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Sam Hauser, Al Horford",24,6,8,4,7,0.8,0,2022-23,BOS,16.071428571428573,1,15
+309,Al Horford,201143,7,14,13,2,16,1.0,1,0,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Sam Hauser, Al Horford",24,6,8,4,7,0.8,0,2022-23,BOS,10.714285714285714,1,15
+310,Jaylen Brown,1627759,4,7,8,4,8,0.6666666666666666,3,0,0,"Jaylen Brown, Malcolm Brogdon, Derrick White, Al Horford, Marcus Smart",9,2,5,1,3,0.5,2,2022-23,BOS,42.857142857142854,3,8
+311,Malcolm Brogdon,1627763,4,7,8,0,8,0.0,1,1,0,"Jaylen Brown, Malcolm Brogdon, Derrick White, Al Horford, Marcus Smart",9,2,5,1,3,0.5,2,2022-23,BOS,0.0,2,8
+312,Derrick White,1628401,4,7,8,0,8,0.0,0,0,0,"Jaylen Brown, Malcolm Brogdon, Derrick White, Al Horford, Marcus Smart",9,2,5,1,3,0.5,2,2022-23,BOS,0.0,0,8
+313,Al Horford,201143,4,7,8,3,8,0.75,0,2,0,"Jaylen Brown, Malcolm Brogdon, Derrick White, Al Horford, Marcus Smart",9,2,5,1,3,0.5,2,2022-23,BOS,32.142857142857146,2,8
+314,Marcus Smart,203935,4,7,8,2,8,0.5,1,0,2,"Jaylen Brown, Malcolm Brogdon, Derrick White, Al Horford, Marcus Smart",9,2,5,1,3,0.5,2,2022-23,BOS,21.428571428571427,1,8
+315,Jaylen Brown,1627759,33,64,64,14,70,0.3333333333333333,18,2,2,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Derrick White, Al Horford",67,18,41,8,24,0.4855072463768116,9,2022-23,BOS,16.40625,20,65
+316,Malcolm Brogdon,1627763,33,64,64,15,70,0.5769230769230769,6,6,2,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Derrick White, Al Horford",67,18,41,8,24,0.4855072463768116,9,2022-23,BOS,17.578125,12,65
+317,Jayson Tatum,1628369,33,64,64,18,70,0.47368421052631576,13,5,3,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Derrick White, Al Horford",67,18,41,8,24,0.4855072463768116,9,2022-23,BOS,21.09375,18,65
+318,Derrick White,1628401,33,64,64,15,70,0.8333333333333334,3,5,2,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Derrick White, Al Horford",67,18,41,8,24,0.4855072463768116,9,2022-23,BOS,17.578125,8,65
+319,Al Horford,201143,33,64,64,5,70,0.35714285714285715,1,6,0,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Derrick White, Al Horford",67,18,41,8,24,0.4855072463768116,9,2022-23,BOS,5.859375,7,65
+320,Malcolm Brogdon,1627763,20,44,46,5,63,0.2777777777777778,7,2,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Al Horford, Marcus Smart",45,9,23,8,18,0.5232558139534884,4,2022-23,BOS,8.522727272727273,9,41
+321,Jayson Tatum,1628369,20,44,46,16,63,0.7272727272727273,7,4,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Al Horford, Marcus Smart",45,9,23,8,18,0.5232558139534884,4,2022-23,BOS,27.272727272727273,11,41
+322,Derrick White,1628401,20,44,46,17,63,0.9444444444444444,5,3,2,"Malcolm Brogdon, Jayson Tatum, Derrick White, Al Horford, Marcus Smart",45,9,23,8,18,0.5232558139534884,4,2022-23,BOS,28.977272727272727,8,41
+323,Al Horford,201143,20,44,46,3,63,0.1875,2,6,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Al Horford, Marcus Smart",45,9,23,8,18,0.5232558139534884,4,2022-23,BOS,5.113636363636363,8,41
+324,Marcus Smart,203935,20,44,46,4,63,0.3333333333333333,2,3,2,"Malcolm Brogdon, Jayson Tatum, Derrick White, Al Horford, Marcus Smart",45,9,23,8,18,0.5232558139534884,4,2022-23,BOS,6.818181818181818,5,41
+325,Malcolm Brogdon,1627763,2,5,6,4,11,0.6666666666666666,2,0,2,"Malcolm Brogdon, Jayson Tatum, Derrick White, Robert Williams III, Payton Pritchard",6,2,3,0,1,0.6,2,2022-23,BOS,60.0,2,4
+326,Jayson Tatum,1628369,2,5,6,2,11,1.0,1,0,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Robert Williams III, Payton Pritchard",6,2,3,0,1,0.6,2,2022-23,BOS,30.0,1,4
+327,Derrick White,1628401,2,5,6,0,11,0.0,0,1,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Robert Williams III, Payton Pritchard",6,2,3,0,1,0.6,2,2022-23,BOS,0.0,1,4
+328,Robert Williams III,1629057,2,5,6,0,11,0.0,0,0,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Robert Williams III, Payton Pritchard",6,2,3,0,1,0.6,2,2022-23,BOS,0.0,0,4
+329,Payton Pritchard,1630202,2,5,6,0,11,0.0,0,0,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Robert Williams III, Payton Pritchard",6,2,3,0,1,0.6,2,2022-23,BOS,0.0,0,4
+330,Luke Kornet,1628436,14,30,31,9,35,0.9,3,1,2,"Luke Kornet, Grant Williams, Payton Pritchard, Sam Hauser, Mike Muscala",45,7,12,8,18,0.6617647058823529,9,2022-23,BOS,22.5,4,30
+331,Grant Williams,1629684,14,30,31,6,35,0.75,0,4,0,"Luke Kornet, Grant Williams, Payton Pritchard, Sam Hauser, Mike Muscala",45,7,12,8,18,0.6617647058823529,9,2022-23,BOS,15.0,4,30
+332,Payton Pritchard,1630202,14,30,31,17,35,0.7083333333333334,7,5,1,"Luke Kornet, Grant Williams, Payton Pritchard, Sam Hauser, Mike Muscala",45,7,12,8,18,0.6617647058823529,9,2022-23,BOS,42.5,12,30
+333,Sam Hauser,1630573,14,30,31,7,35,0.4375,2,5,2,"Luke Kornet, Grant Williams, Payton Pritchard, Sam Hauser, Mike Muscala",45,7,12,8,18,0.6617647058823529,9,2022-23,BOS,17.5,7,30
+334,Mike Muscala,203488,14,30,31,6,35,0.6,0,3,4,"Luke Kornet, Grant Williams, Payton Pritchard, Sam Hauser, Mike Muscala",45,7,12,8,18,0.6617647058823529,9,2022-23,BOS,15.0,3,30
+335,Jaylen Brown,1627759,87,174,168,48,155,0.7058823529411765,15,15,11,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Al Horford, Marcus Smart",212,45,71,25,70,0.6385542168674698,57,2022-23,BOS,20.689655172413794,30,141
+336,Malcolm Brogdon,1627763,87,174,168,27,155,0.5,13,11,6,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Al Horford, Marcus Smart",212,45,71,25,70,0.6385542168674698,57,2022-23,BOS,11.637931034482758,24,141
+337,Jayson Tatum,1628369,87,174,168,82,155,0.7068965517241379,27,18,28,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Al Horford, Marcus Smart",212,45,71,25,70,0.6385542168674698,57,2022-23,BOS,35.3448275862069,45,141
+338,Al Horford,201143,87,174,168,17,155,0.6071428571428571,4,10,0,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Al Horford, Marcus Smart",212,45,71,25,70,0.6385542168674698,57,2022-23,BOS,7.327586206896552,14,141
+339,Marcus Smart,203935,87,174,168,38,155,0.5757575757575758,12,16,12,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Al Horford, Marcus Smart",212,45,71,25,70,0.6385542168674698,57,2022-23,BOS,16.379310344827587,28,141
+340,Derrick White,1628401,2,3,2,0,2,0.0,0,1,0,"Derrick White, Robert Williams III, Grant Williams, Payton Pritchard, Sam Hauser",6,0,0,2,4,0.75,0,2022-23,BOS,0.0,1,4
+341,Robert Williams III,1629057,2,3,2,0,2,0.0,0,0,0,"Derrick White, Robert Williams III, Grant Williams, Payton Pritchard, Sam Hauser",6,0,0,2,4,0.75,0,2022-23,BOS,0.0,0,4
+342,Grant Williams,1629684,2,3,2,3,2,1.5,0,1,0,"Derrick White, Robert Williams III, Grant Williams, Payton Pritchard, Sam Hauser",6,0,0,2,4,0.75,0,2022-23,BOS,75.0,1,4
+343,Payton Pritchard,1630202,2,3,2,3,2,1.5,0,1,0,"Derrick White, Robert Williams III, Grant Williams, Payton Pritchard, Sam Hauser",6,0,0,2,4,0.75,0,2022-23,BOS,75.0,1,4
+344,Sam Hauser,1630573,2,3,2,0,2,0.0,0,1,0,"Derrick White, Robert Williams III, Grant Williams, Payton Pritchard, Sam Hauser",6,0,0,2,4,0.75,0,2022-23,BOS,0.0,1,4
+345,Malcolm Brogdon,1627763,5,11,9,2,13,0.3333333333333333,2,1,1,"Malcolm Brogdon, Jayson Tatum, Derrick White, Payton Pritchard, Al Horford",11,4,6,1,4,0.55,1,2022-23,BOS,13.636363636363637,3,10
+346,Jayson Tatum,1628369,5,11,9,4,13,0.6666666666666666,3,0,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Payton Pritchard, Al Horford",11,4,6,1,4,0.55,1,2022-23,BOS,27.272727272727273,3,10
+347,Derrick White,1628401,5,11,9,5,13,1.25,1,1,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Payton Pritchard, Al Horford",11,4,6,1,4,0.55,1,2022-23,BOS,34.09090909090909,2,10
+348,Payton Pritchard,1630202,5,11,9,0,13,0.0,0,1,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Payton Pritchard, Al Horford",11,4,6,1,4,0.55,1,2022-23,BOS,0.0,1,10
+349,Al Horford,201143,5,11,9,0,13,0.0,0,1,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Payton Pritchard, Al Horford",11,4,6,1,4,0.55,1,2022-23,BOS,0.0,1,10
+350,Malcolm Brogdon,1627763,4,7,7,3,6,0.75,0,2,0,"Malcolm Brogdon, Robert Williams III, Grant Williams, Payton Pritchard, Marcus Smart",8,1,1,2,6,0.5714285714285714,0,2022-23,BOS,32.142857142857146,2,7
+351,Robert Williams III,1629057,4,7,7,2,6,1.0,1,0,0,"Malcolm Brogdon, Robert Williams III, Grant Williams, Payton Pritchard, Marcus Smart",8,1,1,2,6,0.5714285714285714,0,2022-23,BOS,21.428571428571427,1,7
+352,Grant Williams,1629684,4,7,7,3,6,0.5,0,3,0,"Malcolm Brogdon, Robert Williams III, Grant Williams, Payton Pritchard, Marcus Smart",8,1,1,2,6,0.5714285714285714,0,2022-23,BOS,32.142857142857146,3,7
+353,Payton Pritchard,1630202,4,7,7,0,6,0.0,0,0,0,"Malcolm Brogdon, Robert Williams III, Grant Williams, Payton Pritchard, Marcus Smart",8,1,1,2,6,0.5714285714285714,0,2022-23,BOS,0.0,0,7
+354,Marcus Smart,203935,4,7,7,0,6,0.0,0,1,0,"Malcolm Brogdon, Robert Williams III, Grant Williams, Payton Pritchard, Marcus Smart",8,1,1,2,6,0.5714285714285714,0,2022-23,BOS,0.0,1,7
+355,Jaylen Brown,1627759,10,19,18,12,26,0.8571428571428571,6,0,2,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Grant Williams",30,12,14,1,3,0.8333333333333334,3,2022-23,BOS,47.36842105263158,6,17
+356,Jayson Tatum,1628369,10,19,18,4,26,0.5,3,1,0,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Grant Williams",30,12,14,1,3,0.8333333333333334,3,2022-23,BOS,15.789473684210526,4,17
+357,Derrick White,1628401,10,19,18,3,26,1.5,0,1,0,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Grant Williams",30,12,14,1,3,0.8333333333333334,3,2022-23,BOS,11.842105263157896,1,17
+358,Robert Williams III,1629057,10,19,18,11,26,1.1,5,0,1,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Grant Williams",30,12,14,1,3,0.8333333333333334,3,2022-23,BOS,43.421052631578945,5,17
+359,Grant Williams,1629684,10,19,18,0,26,0.0,0,1,0,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Grant Williams",30,12,14,1,3,0.8333333333333334,3,2022-23,BOS,0.0,1,17
+360,Jaylen Brown,1627759,4,8,9,2,11,0.5,1,1,0,"Jaylen Brown, Malcolm Brogdon, Robert Williams III, Grant Williams, Sam Hauser",10,2,2,2,4,0.8333333333333334,1,2022-23,BOS,18.75,2,6
+361,Malcolm Brogdon,1627763,4,8,9,5,11,1.25,1,1,1,"Jaylen Brown, Malcolm Brogdon, Robert Williams III, Grant Williams, Sam Hauser",10,2,2,2,4,0.8333333333333334,1,2022-23,BOS,46.875,2,6
+362,Robert Williams III,1629057,4,8,9,0,11,0.0,0,0,0,"Jaylen Brown, Malcolm Brogdon, Robert Williams III, Grant Williams, Sam Hauser",10,2,2,2,4,0.8333333333333334,1,2022-23,BOS,0.0,0,6
+363,Grant Williams,1629684,4,8,9,3,11,1.5,0,1,0,"Jaylen Brown, Malcolm Brogdon, Robert Williams III, Grant Williams, Sam Hauser",10,2,2,2,4,0.8333333333333334,1,2022-23,BOS,28.125,1,6
+364,Sam Hauser,1630573,4,8,9,0,11,0.0,0,1,0,"Jaylen Brown, Malcolm Brogdon, Robert Williams III, Grant Williams, Sam Hauser",10,2,2,2,4,0.8333333333333334,1,2022-23,BOS,0.0,1,6
+365,Jaylen Brown,1627759,7,14,11,5,15,0.8333333333333334,1,2,0,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Grant Williams, Al Horford",16,4,5,2,4,0.8,2,2022-23,BOS,26.785714285714285,3,9
+366,Malcolm Brogdon,1627763,7,14,11,5,15,0.8333333333333334,1,1,2,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Grant Williams, Al Horford",16,4,5,2,4,0.8,2,2022-23,BOS,26.785714285714285,2,9
+367,Jayson Tatum,1628369,7,14,11,2,15,0.5,1,1,0,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Grant Williams, Al Horford",16,4,5,2,4,0.8,2,2022-23,BOS,10.714285714285714,2,9
+368,Grant Williams,1629684,7,14,11,2,15,1.0,1,0,0,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Grant Williams, Al Horford",16,4,5,2,4,0.8,2,2022-23,BOS,10.714285714285714,1,9
+369,Al Horford,201143,7,14,11,2,15,1.0,1,0,0,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Grant Williams, Al Horford",16,4,5,2,4,0.8,2,2022-23,BOS,10.714285714285714,1,9
+370,Malcolm Brogdon,1627763,7,11,14,0,17,0.0,1,1,0,"Malcolm Brogdon, Jayson Tatum, Grant Williams, Al Horford, Marcus Smart",12,1,3,3,5,0.6666666666666666,2,2022-23,BOS,0.0,2,8
+371,Jayson Tatum,1628369,7,11,14,8,17,1.0,2,2,0,"Malcolm Brogdon, Jayson Tatum, Grant Williams, Al Horford, Marcus Smart",12,1,3,3,5,0.6666666666666666,2,2022-23,BOS,54.54545454545455,4,8
+372,Grant Williams,1629684,7,11,14,0,17,0.0,0,1,0,"Malcolm Brogdon, Jayson Tatum, Grant Williams, Al Horford, Marcus Smart",12,1,3,3,5,0.6666666666666666,2,2022-23,BOS,0.0,1,8
+373,Al Horford,201143,7,11,14,3,17,1.5,0,1,0,"Malcolm Brogdon, Jayson Tatum, Grant Williams, Al Horford, Marcus Smart",12,1,3,3,5,0.6666666666666666,2,2022-23,BOS,20.454545454545453,1,8
+374,Marcus Smart,203935,7,11,14,1,17,0.5,0,0,2,"Malcolm Brogdon, Jayson Tatum, Grant Williams, Al Horford, Marcus Smart",12,1,3,3,5,0.6666666666666666,2,2022-23,BOS,6.818181818181818,0,8
+375,Jayson Tatum,1628369,5,10,11,0,17,0.0,1,1,0,"Jayson Tatum, Derrick White, Robert Williams III, Al Horford, Marcus Smart",12,3,6,1,4,0.5454545454545454,3,2022-23,BOS,0.0,2,10
+376,Derrick White,1628401,5,10,11,5,17,1.25,1,0,3,"Jayson Tatum, Derrick White, Robert Williams III, Al Horford, Marcus Smart",12,3,6,1,4,0.5454545454545454,3,2022-23,BOS,37.5,1,10
+377,Robert Williams III,1629057,5,10,11,4,17,1.0,2,0,0,"Jayson Tatum, Derrick White, Robert Williams III, Al Horford, Marcus Smart",12,3,6,1,4,0.5454545454545454,3,2022-23,BOS,30.0,2,10
+378,Al Horford,201143,5,10,11,3,17,1.5,0,1,0,"Jayson Tatum, Derrick White, Robert Williams III, Al Horford, Marcus Smart",12,3,6,1,4,0.5454545454545454,3,2022-23,BOS,22.5,1,10
+379,Marcus Smart,203935,5,10,11,0,17,0.0,2,2,0,"Jayson Tatum, Derrick White, Robert Williams III, Al Horford, Marcus Smart",12,3,6,1,4,0.5454545454545454,3,2022-23,BOS,0.0,4,10
+380,Jaylen Brown,1627759,2,2,3,0,4,0.0,0,1,0,"Jaylen Brown, Jayson Tatum, Payton Pritchard, Al Horford, Marcus Smart",0,0,1,0,1,0.0,0,2022-23,BOS,0.0,1,2
+381,Jayson Tatum,1628369,2,2,3,0,4,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Payton Pritchard, Al Horford, Marcus Smart",0,0,1,0,1,0.0,0,2022-23,BOS,0.0,0,2
+382,Payton Pritchard,1630202,2,2,3,0,4,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Payton Pritchard, Al Horford, Marcus Smart",0,0,1,0,1,0.0,0,2022-23,BOS,0.0,0,2
+383,Al Horford,201143,2,2,3,0,4,0.0,1,0,0,"Jaylen Brown, Jayson Tatum, Payton Pritchard, Al Horford, Marcus Smart",0,0,1,0,1,0.0,0,2022-23,BOS,0.0,1,2
+384,Marcus Smart,203935,2,2,3,0,4,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Payton Pritchard, Al Horford, Marcus Smart",0,0,1,0,1,0.0,0,2022-23,BOS,0.0,0,2
+385,Malcolm Brogdon,1627763,3,5,5,2,6,0.3333333333333333,2,1,0,"Malcolm Brogdon, Jayson Tatum, Robert Williams III, Grant Williams, Sam Hauser",5,1,2,1,2,0.625,0,2022-23,BOS,30.0,3,4
+386,Jayson Tatum,1628369,3,5,5,0,6,0.0,0,0,0,"Malcolm Brogdon, Jayson Tatum, Robert Williams III, Grant Williams, Sam Hauser",5,1,2,1,2,0.625,0,2022-23,BOS,0.0,0,4
+387,Robert Williams III,1629057,3,5,5,0,6,0.0,0,0,0,"Malcolm Brogdon, Jayson Tatum, Robert Williams III, Grant Williams, Sam Hauser",5,1,2,1,2,0.625,0,2022-23,BOS,0.0,0,4
+388,Grant Williams,1629684,3,5,5,3,6,1.5,0,1,0,"Malcolm Brogdon, Jayson Tatum, Robert Williams III, Grant Williams, Sam Hauser",5,1,2,1,2,0.625,0,2022-23,BOS,45.0,1,4
+389,Sam Hauser,1630573,3,5,5,0,6,0.0,0,0,0,"Malcolm Brogdon, Jayson Tatum, Robert Williams III, Grant Williams, Sam Hauser",5,1,2,1,2,0.625,0,2022-23,BOS,0.0,0,4
+390,Jaylen Brown,1627759,2,3,4,2,6,1.0,1,0,0,"Jaylen Brown, Jayson Tatum, Sam Hauser, Al Horford, Marcus Smart",2,1,2,0,0,0.5,0,2022-23,BOS,50.0,1,2
+391,Jayson Tatum,1628369,2,3,4,0,6,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Sam Hauser, Al Horford, Marcus Smart",2,1,2,0,0,0.5,0,2022-23,BOS,0.0,0,2
+392,Sam Hauser,1630573,2,3,4,0,6,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Sam Hauser, Al Horford, Marcus Smart",2,1,2,0,0,0.5,0,2022-23,BOS,0.0,0,2
+393,Al Horford,201143,2,3,4,0,6,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Sam Hauser, Al Horford, Marcus Smart",2,1,2,0,0,0.5,0,2022-23,BOS,0.0,0,2
+394,Marcus Smart,203935,2,3,4,0,6,0.0,1,0,0,"Jaylen Brown, Jayson Tatum, Sam Hauser, Al Horford, Marcus Smart",2,1,2,0,0,0.5,0,2022-23,BOS,0.0,1,2
+395,Jaylen Brown,1627759,14,27,28,3,41,0.3,2,2,2,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Robert Williams III, Grant Williams",28,8,14,3,12,0.5,6,2022-23,BOS,8.333333333333334,4,26
+396,Malcolm Brogdon,1627763,14,27,28,5,41,0.4166666666666667,2,4,0,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Robert Williams III, Grant Williams",28,8,14,3,12,0.5,6,2022-23,BOS,13.88888888888889,6,26
+397,Jayson Tatum,1628369,14,27,28,3,41,0.25,1,5,0,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Robert Williams III, Grant Williams",28,8,14,3,12,0.5,6,2022-23,BOS,8.333333333333334,6,26
+398,Robert Williams III,1629057,14,27,28,12,41,0.75,7,0,4,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Robert Williams III, Grant Williams",28,8,14,3,12,0.5,6,2022-23,BOS,33.333333333333336,7,26
+399,Grant Williams,1629684,14,27,28,5,41,0.8333333333333334,2,1,0,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Robert Williams III, Grant Williams",28,8,14,3,12,0.5,6,2022-23,BOS,13.88888888888889,3,26
+400,Jayson Tatum,1628369,10,17,20,4,23,0.4,2,2,2,"Jayson Tatum, Derrick White, Grant Williams, Al Horford, Marcus Smart",17,3,4,3,12,0.5,2,2022-23,BOS,17.647058823529413,4,16
+401,Derrick White,1628401,10,17,20,0,23,0.0,0,2,0,"Jayson Tatum, Derrick White, Grant Williams, Al Horford, Marcus Smart",17,3,4,3,12,0.5,2,2022-23,BOS,0.0,2,16
+402,Grant Williams,1629684,10,17,20,0,23,0.0,0,1,0,"Jayson Tatum, Derrick White, Grant Williams, Al Horford, Marcus Smart",17,3,4,3,12,0.5,2,2022-23,BOS,0.0,1,16
+403,Al Horford,201143,10,17,20,5,23,0.5,1,4,0,"Jayson Tatum, Derrick White, Grant Williams, Al Horford, Marcus Smart",17,3,4,3,12,0.5,2,2022-23,BOS,22.058823529411764,5,16
+404,Marcus Smart,203935,10,17,20,8,23,1.0,1,3,0,"Jayson Tatum, Derrick White, Grant Williams, Al Horford, Marcus Smart",17,3,4,3,12,0.5,2,2022-23,BOS,35.294117647058826,4,16
+405,Jaylen Brown,1627759,3,5,5,3,7,1.5,0,1,0,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Blake Griffin",7,2,2,1,3,0.7,0,2022-23,BOS,45.0,1,5
+406,Jayson Tatum,1628369,3,5,5,2,7,0.5,1,1,0,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Blake Griffin",7,2,2,1,3,0.7,0,2022-23,BOS,30.0,2,5
+407,Derrick White,1628401,3,5,5,2,7,0.5,1,1,0,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Blake Griffin",7,2,2,1,3,0.7,0,2022-23,BOS,30.0,2,5
+408,Robert Williams III,1629057,3,5,5,0,7,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Blake Griffin",7,2,2,1,3,0.7,0,2022-23,BOS,0.0,0,5
+409,Blake Griffin,201933,3,5,5,0,7,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Blake Griffin",7,2,2,1,3,0.7,0,2022-23,BOS,0.0,0,5
+410,Jaylen Brown,1627759,12,24,23,4,22,0.5,2,1,3,"Jaylen Brown, Jayson Tatum, Robert Williams III, Grant Williams, Marcus Smart",25,6,10,3,10,0.5434782608695652,7,2022-23,BOS,12.5,3,20
+411,Jayson Tatum,1628369,12,24,23,9,22,0.5,5,3,2,"Jaylen Brown, Jayson Tatum, Robert Williams III, Grant Williams, Marcus Smart",25,6,10,3,10,0.5434782608695652,7,2022-23,BOS,28.125,8,20
+412,Robert Williams III,1629057,12,24,23,2,22,0.5,2,0,0,"Jaylen Brown, Jayson Tatum, Robert Williams III, Grant Williams, Marcus Smart",25,6,10,3,10,0.5434782608695652,7,2022-23,BOS,6.25,2,20
+413,Grant Williams,1629684,12,24,23,7,22,0.7,1,3,2,"Jaylen Brown, Jayson Tatum, Robert Williams III, Grant Williams, Marcus Smart",25,6,10,3,10,0.5434782608695652,7,2022-23,BOS,21.875,4,20
+414,Marcus Smart,203935,12,24,23,3,22,0.5,0,3,0,"Jaylen Brown, Jayson Tatum, Robert Williams III, Grant Williams, Marcus Smart",25,6,10,3,10,0.5434782608695652,7,2022-23,BOS,9.375,3,20
+415,Jaylen Brown,1627759,10,18,21,0,22,0.0,5,1,0,"Jaylen Brown, Malcolm Brogdon, Derrick White, Grant Williams, Al Horford",19,3,11,3,6,0.5,4,2022-23,BOS,0.0,6,17
+416,Malcolm Brogdon,1627763,10,18,21,3,22,0.3,3,2,0,"Jaylen Brown, Malcolm Brogdon, Derrick White, Grant Williams, Al Horford",19,3,11,3,6,0.5,4,2022-23,BOS,12.5,5,17
+417,Derrick White,1628401,10,18,21,9,22,0.9,2,2,2,"Jaylen Brown, Malcolm Brogdon, Derrick White, Grant Williams, Al Horford",19,3,11,3,6,0.5,4,2022-23,BOS,37.5,4,17
+418,Grant Williams,1629684,10,18,21,5,22,1.25,0,1,2,"Jaylen Brown, Malcolm Brogdon, Derrick White, Grant Williams, Al Horford",19,3,11,3,6,0.5,4,2022-23,BOS,20.833333333333332,1,17
+419,Al Horford,201143,10,18,21,2,22,1.0,1,0,0,"Jaylen Brown, Malcolm Brogdon, Derrick White, Grant Williams, Al Horford",19,3,11,3,6,0.5,4,2022-23,BOS,8.333333333333334,1,17
+420,Malcolm Brogdon,1627763,20,35,39,5,34,0.5,2,3,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Robert Williams III, Marcus Smart",46,7,12,7,18,0.6388888888888888,13,2022-23,BOS,10.714285714285714,5,30
+421,Jayson Tatum,1628369,20,35,39,21,34,0.75,5,5,9,"Malcolm Brogdon, Jayson Tatum, Derrick White, Robert Williams III, Marcus Smart",46,7,12,7,18,0.6388888888888888,13,2022-23,BOS,45.0,10,30
+422,Derrick White,1628401,20,35,39,11,34,0.55,2,8,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Robert Williams III, Marcus Smart",46,7,12,7,18,0.6388888888888888,13,2022-23,BOS,23.571428571428573,10,30
+423,Robert Williams III,1629057,20,35,39,2,34,1.0,1,0,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Robert Williams III, Marcus Smart",46,7,12,7,18,0.6388888888888888,13,2022-23,BOS,4.285714285714286,1,30
+424,Marcus Smart,203935,20,35,39,7,34,0.5833333333333334,2,2,4,"Malcolm Brogdon, Jayson Tatum, Derrick White, Robert Williams III, Marcus Smart",46,7,12,7,18,0.6388888888888888,13,2022-23,BOS,15.0,4,30
+425,Luke Kornet,1628436,4,8,8,0,11,0.0,0,0,0,"Luke Kornet, Grant Williams, Payton Pritchard, Justin Champagnie, Sam Hauser",5,1,2,1,4,0.4166666666666667,0,2022-23,BOS,0.0,0,6
+426,Grant Williams,1629684,4,8,8,0,11,0.0,0,0,0,"Luke Kornet, Grant Williams, Payton Pritchard, Justin Champagnie, Sam Hauser",5,1,2,1,4,0.4166666666666667,0,2022-23,BOS,0.0,0,6
+427,Payton Pritchard,1630202,4,8,8,0,11,0.0,0,1,0,"Luke Kornet, Grant Williams, Payton Pritchard, Justin Champagnie, Sam Hauser",5,1,2,1,4,0.4166666666666667,0,2022-23,BOS,0.0,1,6
+428,Justin Champagnie,1630551,4,8,8,2,11,0.5,1,1,0,"Luke Kornet, Grant Williams, Payton Pritchard, Justin Champagnie, Sam Hauser",5,1,2,1,4,0.4166666666666667,0,2022-23,BOS,18.75,2,6
+429,Sam Hauser,1630573,4,8,8,3,11,0.5,1,2,0,"Luke Kornet, Grant Williams, Payton Pritchard, Justin Champagnie, Sam Hauser",5,1,2,1,4,0.4166666666666667,0,2022-23,BOS,28.125,3,6
+430,Malcolm Brogdon,1627763,8,14,15,2,16,0.3333333333333333,3,0,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Grant Williams, Al Horford",19,3,6,4,8,0.6785714285714286,1,2022-23,BOS,10.714285714285714,3,14
+431,Jayson Tatum,1628369,8,14,15,2,16,0.5,2,0,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Grant Williams, Al Horford",19,3,6,4,8,0.6785714285714286,1,2022-23,BOS,10.714285714285714,2,14
+432,Derrick White,1628401,8,14,15,6,16,1.0,1,2,1,"Malcolm Brogdon, Jayson Tatum, Derrick White, Grant Williams, Al Horford",19,3,6,4,8,0.6785714285714286,1,2022-23,BOS,32.142857142857146,3,14
+433,Grant Williams,1629684,8,14,15,3,16,0.75,0,2,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Grant Williams, Al Horford",19,3,6,4,8,0.6785714285714286,1,2022-23,BOS,16.071428571428573,2,14
+434,Al Horford,201143,8,14,15,6,16,0.75,0,4,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Grant Williams, Al Horford",19,3,6,4,8,0.6785714285714286,1,2022-23,BOS,32.142857142857146,4,14
+435,Malcolm Brogdon,1627763,4,7,6,2,8,0.3333333333333333,2,1,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Robert Williams III, Al Horford",7,1,2,1,4,0.5,2,2022-23,BOS,21.428571428571427,3,6
+436,Jayson Tatum,1628369,4,7,6,2,8,0.5,0,1,2,"Malcolm Brogdon, Jayson Tatum, Derrick White, Robert Williams III, Al Horford",7,1,2,1,4,0.5,2,2022-23,BOS,21.428571428571427,1,6
+437,Derrick White,1628401,4,7,6,3,8,0.75,0,2,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Robert Williams III, Al Horford",7,1,2,1,4,0.5,2,2022-23,BOS,32.142857142857146,2,6
+438,Robert Williams III,1629057,4,7,6,0,8,0.0,0,0,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Robert Williams III, Al Horford",7,1,2,1,4,0.5,2,2022-23,BOS,0.0,0,6
+439,Al Horford,201143,4,7,6,0,8,0.0,0,0,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Robert Williams III, Al Horford",7,1,2,1,4,0.5,2,2022-23,BOS,0.0,0,6
+440,Jaylen Brown,1627759,242,479,472,177,525,0.6376811594202898,88,40,25,"Jaylen Brown, Jayson Tatum, Derrick White, Al Horford, Marcus Smart",552,136,240,68,198,0.5777310924369747,89,2022-23,BOS,27.713987473903966,128,438
+441,Jayson Tatum,1628369,242,479,472,156,525,0.5916030534351145,76,39,37,"Jaylen Brown, Jayson Tatum, Derrick White, Al Horford, Marcus Smart",552,136,240,68,198,0.5777310924369747,89,2022-23,BOS,24.4258872651357,115,438
+442,Derrick White,1628401,242,479,472,65,525,0.49242424242424243,25,37,8,"Jaylen Brown, Jayson Tatum, Derrick White, Al Horford, Marcus Smart",552,136,240,68,198,0.5777310924369747,89,2022-23,BOS,10.177453027139874,62,438
+443,Al Horford,201143,242,479,472,61,525,0.5258620689655172,18,38,4,"Jaylen Brown, Jayson Tatum, Derrick White, Al Horford, Marcus Smart",552,136,240,68,198,0.5777310924369747,89,2022-23,BOS,9.551148225469728,56,438
+444,Marcus Smart,203935,242,479,472,93,525,0.5602409638554217,33,44,15,"Jaylen Brown, Jayson Tatum, Derrick White, Al Horford, Marcus Smart",552,136,240,68,198,0.5777310924369747,89,2022-23,BOS,14.561586638830898,77,438
+445,Malcolm Brogdon,1627763,13,26,28,7,24,0.5833333333333334,3,3,0,"Malcolm Brogdon, Jayson Tatum, Robert Williams III, Sam Hauser, Marcus Smart",25,6,9,4,14,0.5208333333333334,2,2022-23,BOS,20.192307692307693,6,23
+446,Jayson Tatum,1628369,13,26,28,7,24,0.35,4,6,0,"Malcolm Brogdon, Jayson Tatum, Robert Williams III, Sam Hauser, Marcus Smart",25,6,9,4,14,0.5208333333333334,2,2022-23,BOS,20.192307692307693,10,23
+447,Robert Williams III,1629057,13,26,28,4,24,1.0,2,0,0,"Malcolm Brogdon, Jayson Tatum, Robert Williams III, Sam Hauser, Marcus Smart",25,6,9,4,14,0.5208333333333334,2,2022-23,BOS,11.538461538461538,2,23
+448,Sam Hauser,1630573,13,26,28,6,24,0.75,0,4,0,"Malcolm Brogdon, Jayson Tatum, Robert Williams III, Sam Hauser, Marcus Smart",25,6,9,4,14,0.5208333333333334,2,2022-23,BOS,17.307692307692307,4,23
+449,Marcus Smart,203935,13,26,28,1,24,0.25,0,1,2,"Malcolm Brogdon, Jayson Tatum, Robert Williams III, Sam Hauser, Marcus Smart",25,6,9,4,14,0.5208333333333334,2,2022-23,BOS,2.8846153846153846,1,23
+450,Jaylen Brown,1627759,16,31,30,12,29,0.6666666666666666,6,3,1,"Jaylen Brown, Jayson Tatum, Derrick White, Grant Williams, Al Horford",33,7,10,4,16,0.5689655172413793,8,2022-23,BOS,29.032258064516128,9,26
+451,Jayson Tatum,1628369,16,31,30,4,29,0.3333333333333333,2,3,2,"Jaylen Brown, Jayson Tatum, Derrick White, Grant Williams, Al Horford",33,7,10,4,16,0.5689655172413793,8,2022-23,BOS,9.67741935483871,5,26
+452,Derrick White,1628401,16,31,30,7,29,0.5833333333333334,1,4,3,"Jaylen Brown, Jayson Tatum, Derrick White, Grant Williams, Al Horford",33,7,10,4,16,0.5689655172413793,8,2022-23,BOS,16.93548387096774,5,26
+453,Grant Williams,1629684,16,31,30,5,29,0.8333333333333334,0,2,2,"Jaylen Brown, Jayson Tatum, Derrick White, Grant Williams, Al Horford",33,7,10,4,16,0.5689655172413793,8,2022-23,BOS,12.096774193548388,2,26
+454,Al Horford,201143,16,31,30,5,29,0.5,1,4,0,"Jaylen Brown, Jayson Tatum, Derrick White, Grant Williams, Al Horford",33,7,10,4,16,0.5689655172413793,8,2022-23,BOS,12.096774193548388,5,26
+455,Jaylen Brown,1627759,2,4,3,1,3,0.5,0,0,2,"Jaylen Brown, Grant Williams, Sam Hauser, Al Horford, Marcus Smart",4,1,1,0,2,0.5,3,2022-23,BOS,18.75,0,3
+456,Grant Williams,1629684,2,4,3,0,3,0.0,0,2,0,"Jaylen Brown, Grant Williams, Sam Hauser, Al Horford, Marcus Smart",4,1,1,0,2,0.5,3,2022-23,BOS,0.0,2,3
+457,Sam Hauser,1630573,2,4,3,0,3,0.0,0,0,0,"Jaylen Brown, Grant Williams, Sam Hauser, Al Horford, Marcus Smart",4,1,1,0,2,0.5,3,2022-23,BOS,0.0,0,3
+458,Al Horford,201143,2,4,3,0,3,0.0,0,0,0,"Jaylen Brown, Grant Williams, Sam Hauser, Al Horford, Marcus Smart",4,1,1,0,2,0.5,3,2022-23,BOS,0.0,0,3
+459,Marcus Smart,203935,2,4,3,3,3,1.5,1,0,1,"Jaylen Brown, Grant Williams, Sam Hauser, Al Horford, Marcus Smart",4,1,1,0,2,0.5,3,2022-23,BOS,56.25,1,3
+460,Jaylen Brown,1627759,11,23,21,5,21,0.4166666666666667,4,1,2,"Jaylen Brown, Malcolm Brogdon, Robert Williams III, Sam Hauser, Marcus Smart",21,6,11,1,4,0.525,10,2022-23,BOS,16.304347826086957,5,15
+461,Malcolm Brogdon,1627763,11,23,21,3,21,0.3,2,1,4,"Jaylen Brown, Malcolm Brogdon, Robert Williams III, Sam Hauser, Marcus Smart",21,6,11,1,4,0.525,10,2022-23,BOS,9.782608695652174,3,15
+462,Robert Williams III,1629057,11,23,21,7,21,0.875,3,0,2,"Jaylen Brown, Malcolm Brogdon, Robert Williams III, Sam Hauser, Marcus Smart",21,6,11,1,4,0.525,10,2022-23,BOS,22.82608695652174,3,15
+463,Sam Hauser,1630573,11,23,21,0,21,0.0,0,1,0,"Jaylen Brown, Malcolm Brogdon, Robert Williams III, Sam Hauser, Marcus Smart",21,6,11,1,4,0.525,10,2022-23,BOS,0.0,1,15
+464,Marcus Smart,203935,11,23,21,6,21,0.75,2,1,2,"Jaylen Brown, Malcolm Brogdon, Robert Williams III, Sam Hauser, Marcus Smart",21,6,11,1,4,0.525,10,2022-23,BOS,19.565217391304348,3,15
+465,Jaylen Brown,1627759,24,49,44,15,64,0.5769230769230769,8,5,0,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Robert Williams III, Marcus Smart",69,12,21,12,19,0.7666666666666667,11,2022-23,BOS,22.959183673469386,13,40
+466,Malcolm Brogdon,1627763,24,49,44,13,64,0.9285714285714286,3,4,0,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Robert Williams III, Marcus Smart",69,12,21,12,19,0.7666666666666667,11,2022-23,BOS,19.897959183673468,7,40
+467,Jayson Tatum,1628369,24,49,44,28,64,0.9333333333333333,3,7,11,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Robert Williams III, Marcus Smart",69,12,21,12,19,0.7666666666666667,11,2022-23,BOS,42.857142857142854,10,40
+468,Robert Williams III,1629057,24,49,44,4,64,1.0,2,0,0,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Robert Williams III, Marcus Smart",69,12,21,12,19,0.7666666666666667,11,2022-23,BOS,6.122448979591836,2,40
+469,Marcus Smart,203935,24,49,44,9,64,0.5625,5,3,0,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Robert Williams III, Marcus Smart",69,12,21,12,19,0.7666666666666667,11,2022-23,BOS,13.775510204081632,8,40
+470,Jaylen Brown,1627759,8,16,18,4,19,0.3333333333333333,2,3,2,"Jaylen Brown, Jayson Tatum, Derrick White, Grant Williams, Marcus Smart",19,5,10,1,5,0.5277777777777778,6,2022-23,BOS,18.75,5,15
+471,Jayson Tatum,1628369,8,16,18,4,19,0.6666666666666666,2,0,2,"Jaylen Brown, Jayson Tatum, Derrick White, Grant Williams, Marcus Smart",19,5,10,1,5,0.5277777777777778,6,2022-23,BOS,18.75,2,15
+472,Derrick White,1628401,8,16,18,5,19,0.625,2,1,2,"Jaylen Brown, Jayson Tatum, Derrick White, Grant Williams, Marcus Smart",19,5,10,1,5,0.5277777777777778,6,2022-23,BOS,23.4375,3,15
+473,Grant Williams,1629684,8,16,18,4,19,0.6666666666666666,3,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Grant Williams, Marcus Smart",19,5,10,1,5,0.5277777777777778,6,2022-23,BOS,18.75,3,15
+474,Marcus Smart,203935,8,16,18,2,19,0.5,1,1,0,"Jaylen Brown, Jayson Tatum, Derrick White, Grant Williams, Marcus Smart",19,5,10,1,5,0.5277777777777778,6,2022-23,BOS,9.375,2,15
+475,Jaylen Brown,1627759,6,11,11,5,18,0.8333333333333334,3,0,1,"Jaylen Brown, Malcolm Brogdon, Derrick White, Robert Williams III, Sam Hauser",13,6,7,0,3,0.65,1,2022-23,BOS,34.09090909090909,3,10
+476,Malcolm Brogdon,1627763,6,11,11,8,18,0.8,4,1,0,"Jaylen Brown, Malcolm Brogdon, Derrick White, Robert Williams III, Sam Hauser",13,6,7,0,3,0.65,1,2022-23,BOS,54.54545454545455,5,10
+477,Derrick White,1628401,6,11,11,0,18,0.0,0,1,0,"Jaylen Brown, Malcolm Brogdon, Derrick White, Robert Williams III, Sam Hauser",13,6,7,0,3,0.65,1,2022-23,BOS,0.0,1,10
+478,Robert Williams III,1629057,6,11,11,0,18,0.0,0,0,0,"Jaylen Brown, Malcolm Brogdon, Derrick White, Robert Williams III, Sam Hauser",13,6,7,0,3,0.65,1,2022-23,BOS,0.0,0,10
+479,Sam Hauser,1630573,6,11,11,0,18,0.0,0,1,0,"Jaylen Brown, Malcolm Brogdon, Derrick White, Robert Williams III, Sam Hauser",13,6,7,0,3,0.65,1,2022-23,BOS,0.0,1,10
+480,Luke Kornet,1628436,6,12,13,6,12,1.0,3,0,0,"Luke Kornet, Payton Pritchard, Justin Champagnie, Sam Hauser, Mike Muscala",18,6,6,1,3,0.85,3,2022-23,BOS,37.5,3,9
+481,Payton Pritchard,1630202,6,12,13,9,12,1.0,3,0,3,"Luke Kornet, Payton Pritchard, Justin Champagnie, Sam Hauser, Mike Muscala",18,6,6,1,3,0.85,3,2022-23,BOS,56.25,3,9
+482,Justin Champagnie,1630551,6,12,13,0,12,0.0,0,2,0,"Luke Kornet, Payton Pritchard, Justin Champagnie, Sam Hauser, Mike Muscala",18,6,6,1,3,0.85,3,2022-23,BOS,0.0,2,9
+483,Sam Hauser,1630573,6,12,13,0,12,0.0,0,0,0,"Luke Kornet, Payton Pritchard, Justin Champagnie, Sam Hauser, Mike Muscala",18,6,6,1,3,0.85,3,2022-23,BOS,0.0,0,9
+484,Mike Muscala,203488,6,12,13,3,12,1.5,0,1,0,"Luke Kornet, Payton Pritchard, Justin Champagnie, Sam Hauser, Mike Muscala",18,6,6,1,3,0.85,3,2022-23,BOS,18.75,1,9
+485,Jaylen Brown,1627759,24,51,49,7,50,0.35,7,2,2,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Al Horford",45,13,28,5,17,0.46875,6,2022-23,BOS,10.294117647058824,9,45
+486,Jayson Tatum,1628369,24,51,49,11,50,0.2894736842105263,10,7,4,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Al Horford",45,13,28,5,17,0.46875,6,2022-23,BOS,16.176470588235293,17,45
+487,Derrick White,1628401,24,51,49,17,50,0.85,3,7,0,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Al Horford",45,13,28,5,17,0.46875,6,2022-23,BOS,25.0,10,45
+488,Robert Williams III,1629057,24,51,49,10,50,0.8333333333333334,6,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Al Horford",45,13,28,5,17,0.46875,6,2022-23,BOS,14.705882352941176,6,45
+489,Al Horford,201143,24,51,49,0,50,0.0,2,1,0,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Al Horford",45,13,28,5,17,0.46875,6,2022-23,BOS,0.0,3,45
+490,Jaylen Brown,1627759,18,36,36,6,42,0.42857142857142855,5,2,0,"Jaylen Brown, Jayson Tatum, Grant Williams, Al Horford, Marcus Smart",37,10,17,4,12,0.5806451612903226,5,2022-23,BOS,12.5,7,29
+491,Jayson Tatum,1628369,18,36,36,10,42,0.75,1,3,5,"Jaylen Brown, Jayson Tatum, Grant Williams, Al Horford, Marcus Smart",37,10,17,4,12,0.5806451612903226,5,2022-23,BOS,20.833333333333332,4,29
+492,Grant Williams,1629684,18,36,36,4,42,0.25,5,3,0,"Jaylen Brown, Jayson Tatum, Grant Williams, Al Horford, Marcus Smart",37,10,17,4,12,0.5806451612903226,5,2022-23,BOS,8.333333333333334,8,29
+493,Al Horford,201143,18,36,36,3,42,0.75,1,1,0,"Jaylen Brown, Jayson Tatum, Grant Williams, Al Horford, Marcus Smart",37,10,17,4,12,0.5806451612903226,5,2022-23,BOS,6.25,2,29
+494,Marcus Smart,203935,18,36,36,14,42,0.875,5,3,0,"Jaylen Brown, Jayson Tatum, Grant Williams, Al Horford, Marcus Smart",37,10,17,4,12,0.5806451612903226,5,2022-23,BOS,29.166666666666668,8,29
+495,Malcolm Brogdon,1627763,4,7,6,2,8,0.3333333333333333,2,1,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Grant Williams, Marcus Smart",4,2,6,0,4,0.2,0,2022-23,BOS,21.428571428571427,3,10
+496,Jayson Tatum,1628369,4,7,6,0,8,0.0,1,2,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Grant Williams, Marcus Smart",4,2,6,0,4,0.2,0,2022-23,BOS,0.0,3,10
+497,Derrick White,1628401,4,7,6,2,8,0.5,2,0,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Grant Williams, Marcus Smart",4,2,6,0,4,0.2,0,2022-23,BOS,21.428571428571427,2,10
+498,Grant Williams,1629684,4,7,6,0,8,0.0,0,1,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Grant Williams, Marcus Smart",4,2,6,0,4,0.2,0,2022-23,BOS,0.0,1,10
+499,Marcus Smart,203935,4,7,6,0,8,0.0,1,0,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Grant Williams, Marcus Smart",4,2,6,0,4,0.2,0,2022-23,BOS,0.0,1,10
+500,Jaylen Brown,1627759,2,5,5,0,10,0.0,0,0,0,"Jaylen Brown, Derrick White, Robert Williams III, Grant Williams, Marcus Smart",4,2,2,0,2,0.5,1,2022-23,BOS,0.0,0,4
+501,Derrick White,1628401,2,5,5,0,10,0.0,0,1,0,"Jaylen Brown, Derrick White, Robert Williams III, Grant Williams, Marcus Smart",4,2,2,0,2,0.5,1,2022-23,BOS,0.0,1,4
+502,Robert Williams III,1629057,2,5,5,2,10,1.0,1,0,1,"Jaylen Brown, Derrick White, Robert Williams III, Grant Williams, Marcus Smart",4,2,2,0,2,0.5,1,2022-23,BOS,30.0,1,4
+503,Grant Williams,1629684,2,5,5,0,10,0.0,0,0,0,"Jaylen Brown, Derrick White, Robert Williams III, Grant Williams, Marcus Smart",4,2,2,0,2,0.5,1,2022-23,BOS,0.0,0,4
+504,Marcus Smart,203935,2,5,5,2,10,0.5,1,1,0,"Jaylen Brown, Derrick White, Robert Williams III, Grant Williams, Marcus Smart",4,2,2,0,2,0.5,1,2022-23,BOS,30.0,2,4
+505,Jaylen Brown,1627759,4,7,6,8,10,1.3333333333333333,1,2,0,"Jaylen Brown, Malcolm Brogdon, Grant Williams, Al Horford, Marcus Smart",10,2,3,2,5,0.625,0,2022-23,BOS,85.71428571428571,3,8
+506,Malcolm Brogdon,1627763,4,7,6,0,10,0.0,0,1,0,"Jaylen Brown, Malcolm Brogdon, Grant Williams, Al Horford, Marcus Smart",10,2,3,2,5,0.625,0,2022-23,BOS,0.0,1,8
+507,Grant Williams,1629684,4,7,6,0,10,0.0,0,1,0,"Jaylen Brown, Malcolm Brogdon, Grant Williams, Al Horford, Marcus Smart",10,2,3,2,5,0.625,0,2022-23,BOS,0.0,1,8
+508,Al Horford,201143,4,7,6,2,10,0.5,1,1,0,"Jaylen Brown, Malcolm Brogdon, Grant Williams, Al Horford, Marcus Smart",10,2,3,2,5,0.625,0,2022-23,BOS,21.428571428571427,2,8
+509,Marcus Smart,203935,4,7,6,0,10,0.0,1,0,0,"Jaylen Brown, Malcolm Brogdon, Grant Williams, Al Horford, Marcus Smart",10,2,3,2,5,0.625,0,2022-23,BOS,0.0,1,8
+510,Jaylen Brown,1627759,18,36,33,13,35,0.8125,5,2,2,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Derrick White, Robert Williams III",36,12,20,3,11,0.5454545454545454,4,2022-23,BOS,27.083333333333332,7,31
+511,Malcolm Brogdon,1627763,18,36,33,4,35,0.2857142857142857,5,2,0,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Derrick White, Robert Williams III",36,12,20,3,11,0.5454545454545454,4,2022-23,BOS,8.333333333333334,7,31
+512,Jayson Tatum,1628369,18,36,33,9,35,0.45,5,5,0,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Derrick White, Robert Williams III",36,12,20,3,11,0.5454545454545454,4,2022-23,BOS,18.75,10,31
+513,Derrick White,1628401,18,36,33,8,35,0.5714285714285714,4,2,2,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Derrick White, Robert Williams III",36,12,20,3,11,0.5454545454545454,4,2022-23,BOS,16.666666666666668,6,31
+514,Robert Williams III,1629057,18,36,33,2,35,1.0,1,0,0,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Derrick White, Robert Williams III",36,12,20,3,11,0.5454545454545454,4,2022-23,BOS,4.166666666666667,1,31
+515,Malcolm Brogdon,1627763,2,3,4,1,4,0.25,1,0,2,"Malcolm Brogdon, Robert Williams III, Grant Williams, Payton Pritchard, Sam Hauser",1,0,1,0,1,0.16666666666666666,2,2022-23,BOS,25.0,1,2
+516,Robert Williams III,1629057,2,3,4,0,4,0.0,0,0,0,"Malcolm Brogdon, Robert Williams III, Grant Williams, Payton Pritchard, Sam Hauser",1,0,1,0,1,0.16666666666666666,2,2022-23,BOS,0.0,0,2
+517,Grant Williams,1629684,2,3,4,0,4,0.0,0,0,0,"Malcolm Brogdon, Robert Williams III, Grant Williams, Payton Pritchard, Sam Hauser",1,0,1,0,1,0.16666666666666666,2,2022-23,BOS,0.0,0,2
+518,Payton Pritchard,1630202,2,3,4,0,4,0.0,0,0,0,"Malcolm Brogdon, Robert Williams III, Grant Williams, Payton Pritchard, Sam Hauser",1,0,1,0,1,0.16666666666666666,2,2022-23,BOS,0.0,0,2
+519,Sam Hauser,1630573,2,3,4,0,4,0.0,0,1,0,"Malcolm Brogdon, Robert Williams III, Grant Williams, Payton Pritchard, Sam Hauser",1,0,1,0,1,0.16666666666666666,2,2022-23,BOS,0.0,1,2
+520,Malcolm Brogdon,1627763,16,30,29,9,31,0.5625,3,5,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Robert Williams III, Grant Williams",50,11,15,8,15,0.78125,6,2022-23,BOS,22.5,8,30
+521,Jayson Tatum,1628369,16,30,29,18,31,0.75,7,4,4,"Malcolm Brogdon, Jayson Tatum, Derrick White, Robert Williams III, Grant Williams",50,11,15,8,15,0.78125,6,2022-23,BOS,45.0,11,30
+522,Derrick White,1628401,16,30,29,15,31,0.9375,3,5,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Robert Williams III, Grant Williams",50,11,15,8,15,0.78125,6,2022-23,BOS,37.5,8,30
+523,Robert Williams III,1629057,16,30,29,2,31,1.0,1,0,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Robert Williams III, Grant Williams",50,11,15,8,15,0.78125,6,2022-23,BOS,5.0,1,30
+524,Grant Williams,1629684,16,30,29,6,31,1.0,1,1,2,"Malcolm Brogdon, Jayson Tatum, Derrick White, Robert Williams III, Grant Williams",50,11,15,8,15,0.78125,6,2022-23,BOS,15.0,2,30
+525,Jaylen Brown,1627759,14,24,29,11,20,0.7857142857142857,2,5,1,"Jaylen Brown, Malcolm Brogdon, Derrick White, Robert Williams III, Marcus Smart",26,5,13,4,10,0.5416666666666666,4,2022-23,BOS,34.375,7,23
+526,Malcolm Brogdon,1627763,14,24,29,5,20,0.3125,7,1,0,"Jaylen Brown, Malcolm Brogdon, Derrick White, Robert Williams III, Marcus Smart",26,5,13,4,10,0.5416666666666666,4,2022-23,BOS,15.625,8,23
+527,Derrick White,1628401,14,24,29,8,20,1.0,1,2,3,"Jaylen Brown, Malcolm Brogdon, Derrick White, Robert Williams III, Marcus Smart",26,5,13,4,10,0.5416666666666666,4,2022-23,BOS,25.0,3,23
+528,Robert Williams III,1629057,14,24,29,2,20,1.0,1,0,0,"Jaylen Brown, Malcolm Brogdon, Derrick White, Robert Williams III, Marcus Smart",26,5,13,4,10,0.5416666666666666,4,2022-23,BOS,6.25,1,23
+529,Marcus Smart,203935,14,24,29,0,20,0.0,2,2,0,"Jaylen Brown, Malcolm Brogdon, Derrick White, Robert Williams III, Marcus Smart",26,5,13,4,10,0.5416666666666666,4,2022-23,BOS,0.0,4,23
+530,Malcolm Brogdon,1627763,23,45,45,17,54,0.85,4,4,4,"Malcolm Brogdon, Jayson Tatum, Robert Williams III, Grant Williams, Marcus Smart",65,10,19,11,21,0.6956521739130435,13,2022-23,BOS,28.333333333333332,8,40
+531,Jayson Tatum,1628369,23,45,45,15,54,0.5384615384615384,6,6,3,"Malcolm Brogdon, Jayson Tatum, Robert Williams III, Grant Williams, Marcus Smart",65,10,19,11,21,0.6956521739130435,13,2022-23,BOS,25.0,12,40
+532,Robert Williams III,1629057,23,45,45,4,54,0.6666666666666666,1,1,2,"Malcolm Brogdon, Jayson Tatum, Robert Williams III, Grant Williams, Marcus Smart",65,10,19,11,21,0.6956521739130435,13,2022-23,BOS,6.666666666666667,2,40
+533,Grant Williams,1629684,23,45,45,6,54,0.75,0,4,0,"Malcolm Brogdon, Jayson Tatum, Robert Williams III, Grant Williams, Marcus Smart",65,10,19,11,21,0.6956521739130435,13,2022-23,BOS,10.0,4,40
+534,Marcus Smart,203935,23,45,45,23,54,0.71875,8,6,4,"Malcolm Brogdon, Jayson Tatum, Robert Williams III, Grant Williams, Marcus Smart",65,10,19,11,21,0.6956521739130435,13,2022-23,BOS,38.333333333333336,14,40
+535,Jayson Tatum,1628369,5,10,11,2,18,0.25,2,1,2,"Jayson Tatum, Derrick White, Robert Williams III, Grant Williams, Marcus Smart",16,2,4,3,5,0.7272727272727273,4,2022-23,BOS,15.0,3,9
+536,Derrick White,1628401,5,10,11,5,18,1.25,1,1,0,"Jayson Tatum, Derrick White, Robert Williams III, Grant Williams, Marcus Smart",16,2,4,3,5,0.7272727272727273,4,2022-23,BOS,37.5,2,9
+537,Robert Williams III,1629057,5,10,11,0,18,0.0,0,0,0,"Jayson Tatum, Derrick White, Robert Williams III, Grant Williams, Marcus Smart",16,2,4,3,5,0.7272727272727273,4,2022-23,BOS,0.0,0,9
+538,Grant Williams,1629684,5,10,11,3,18,1.5,0,1,0,"Jayson Tatum, Derrick White, Robert Williams III, Grant Williams, Marcus Smart",16,2,4,3,5,0.7272727272727273,4,2022-23,BOS,22.5,1,9
+539,Marcus Smart,203935,5,10,11,6,18,0.75,1,2,2,"Jayson Tatum, Derrick White, Robert Williams III, Grant Williams, Marcus Smart",16,2,4,3,5,0.7272727272727273,4,2022-23,BOS,45.0,3,9
+540,Jaylen Brown,1627759,2,3,4,0,7,0.0,0,0,2,"Jaylen Brown, Malcolm Brogdon, Derrick White, Al Horford, Blake Griffin",2,1,3,0,1,0.2,2,2022-23,BOS,0.0,0,4
+541,Malcolm Brogdon,1627763,2,3,4,0,7,0.0,1,1,0,"Jaylen Brown, Malcolm Brogdon, Derrick White, Al Horford, Blake Griffin",2,1,3,0,1,0.2,2,2022-23,BOS,0.0,2,4
+542,Derrick White,1628401,2,3,4,2,7,1.0,1,0,0,"Jaylen Brown, Malcolm Brogdon, Derrick White, Al Horford, Blake Griffin",2,1,3,0,1,0.2,2,2022-23,BOS,50.0,1,4
+543,Al Horford,201143,2,3,4,0,7,0.0,0,0,0,"Jaylen Brown, Malcolm Brogdon, Derrick White, Al Horford, Blake Griffin",2,1,3,0,1,0.2,2,2022-23,BOS,0.0,0,4
+544,Blake Griffin,201933,2,3,4,0,7,0.0,1,0,0,"Jaylen Brown, Malcolm Brogdon, Derrick White, Al Horford, Blake Griffin",2,1,3,0,1,0.2,2,2022-23,BOS,0.0,1,4
+545,Jaylen Brown,1627759,9,22,20,9,29,0.6428571428571429,4,2,2,"Jaylen Brown, Malcolm Brogdon, Derrick White, Robert Williams III, Al Horford",34,9,12,4,6,0.8947368421052632,4,2022-23,BOS,30.681818181818183,6,18
+546,Malcolm Brogdon,1627763,9,22,20,10,29,1.0,3,2,1,"Jaylen Brown, Malcolm Brogdon, Derrick White, Robert Williams III, Al Horford",34,9,12,4,6,0.8947368421052632,4,2022-23,BOS,34.09090909090909,5,18
+547,Derrick White,1628401,9,22,20,10,29,1.0,3,2,0,"Jaylen Brown, Malcolm Brogdon, Derrick White, Robert Williams III, Al Horford",34,9,12,4,6,0.8947368421052632,4,2022-23,BOS,34.09090909090909,5,18
+548,Robert Williams III,1629057,9,22,20,5,29,1.25,2,0,1,"Jaylen Brown, Malcolm Brogdon, Derrick White, Robert Williams III, Al Horford",34,9,12,4,6,0.8947368421052632,4,2022-23,BOS,17.045454545454547,2,18
+549,Al Horford,201143,9,22,20,0,29,0.0,0,0,0,"Jaylen Brown, Malcolm Brogdon, Derrick White, Robert Williams III, Al Horford",34,9,12,4,6,0.8947368421052632,4,2022-23,BOS,0.0,0,18
+550,Jaylen Brown,1627759,5,9,10,5,14,0.8333333333333334,2,1,1,"Jaylen Brown, Malcolm Brogdon, Sam Hauser, Al Horford, Marcus Smart",16,2,4,4,5,0.8888888888888888,1,2022-23,BOS,41.666666666666664,3,9
+551,Malcolm Brogdon,1627763,5,9,10,2,14,0.5,2,0,0,"Jaylen Brown, Malcolm Brogdon, Sam Hauser, Al Horford, Marcus Smart",16,2,4,4,5,0.8888888888888888,1,2022-23,BOS,16.666666666666668,2,9
+552,Sam Hauser,1630573,5,9,10,3,14,0.75,0,2,0,"Jaylen Brown, Malcolm Brogdon, Sam Hauser, Al Horford, Marcus Smart",16,2,4,4,5,0.8888888888888888,1,2022-23,BOS,25.0,2,9
+553,Al Horford,201143,5,9,10,0,14,0.0,0,0,0,"Jaylen Brown, Malcolm Brogdon, Sam Hauser, Al Horford, Marcus Smart",16,2,4,4,5,0.8888888888888888,1,2022-23,BOS,0.0,0,9
+554,Marcus Smart,203935,5,9,10,6,14,1.5,0,2,0,"Jaylen Brown, Malcolm Brogdon, Sam Hauser, Al Horford, Marcus Smart",16,2,4,4,5,0.8888888888888888,1,2022-23,BOS,50.0,2,9
+555,Jaylen Brown,1627759,4,6,5,4,5,1.0,2,0,1,"Jaylen Brown, Malcolm Brogdon, Derrick White, Robert Williams III, Payton Pritchard",9,3,3,1,2,0.9,1,2022-23,BOS,50.0,2,5
+556,Malcolm Brogdon,1627763,4,6,5,2,5,1.0,1,0,0,"Jaylen Brown, Malcolm Brogdon, Derrick White, Robert Williams III, Payton Pritchard",9,3,3,1,2,0.9,1,2022-23,BOS,25.0,1,5
+557,Derrick White,1628401,4,6,5,3,5,1.5,0,1,0,"Jaylen Brown, Malcolm Brogdon, Derrick White, Robert Williams III, Payton Pritchard",9,3,3,1,2,0.9,1,2022-23,BOS,37.5,1,5
+558,Robert Williams III,1629057,4,6,5,0,5,0.0,0,0,0,"Jaylen Brown, Malcolm Brogdon, Derrick White, Robert Williams III, Payton Pritchard",9,3,3,1,2,0.9,1,2022-23,BOS,0.0,0,5
+559,Payton Pritchard,1630202,4,6,5,0,5,0.0,0,1,0,"Jaylen Brown, Malcolm Brogdon, Derrick White, Robert Williams III, Payton Pritchard",9,3,3,1,2,0.9,1,2022-23,BOS,0.0,1,5
+560,Jaylen Brown,1627759,6,14,14,4,7,0.6666666666666666,3,0,0,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Robert Williams III, Al Horford",15,4,10,2,5,0.46875,2,2022-23,BOS,21.428571428571427,3,15
+561,Malcolm Brogdon,1627763,6,14,14,8,7,0.6666666666666666,2,4,0,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Robert Williams III, Al Horford",15,4,10,2,5,0.46875,2,2022-23,BOS,42.857142857142854,6,15
+562,Jayson Tatum,1628369,6,14,14,3,7,0.25,4,1,2,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Robert Williams III, Al Horford",15,4,10,2,5,0.46875,2,2022-23,BOS,16.071428571428573,5,15
+563,Robert Williams III,1629057,6,14,14,0,7,0.0,0,0,0,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Robert Williams III, Al Horford",15,4,10,2,5,0.46875,2,2022-23,BOS,0.0,0,15
+564,Al Horford,201143,6,14,14,0,7,0.0,1,0,0,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Robert Williams III, Al Horford",15,4,10,2,5,0.46875,2,2022-23,BOS,0.0,1,15
+565,Jaylen Brown,1627759,25,47,49,10,62,0.35714285714285715,7,5,4,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Marcus Smart",58,15,23,6,21,0.58,15,2022-23,BOS,15.957446808510639,12,44
+566,Jayson Tatum,1628369,25,47,49,11,62,0.5,5,5,2,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Marcus Smart",58,15,23,6,21,0.58,15,2022-23,BOS,17.5531914893617,10,44
+567,Derrick White,1628401,25,47,49,14,62,0.7777777777777778,2,7,1,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Marcus Smart",58,15,23,6,21,0.58,15,2022-23,BOS,22.340425531914892,9,44
+568,Robert Williams III,1629057,25,47,49,15,62,0.75,8,0,5,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Marcus Smart",58,15,23,6,21,0.58,15,2022-23,BOS,23.93617021276596,8,44
+569,Marcus Smart,203935,25,47,49,8,62,0.6666666666666666,1,4,3,"Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III, Marcus Smart",58,15,23,6,21,0.58,15,2022-23,BOS,12.76595744680851,5,44
+570,Jaylen Brown,1627759,2,6,4,0,4,0.0,1,0,0,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Grant Williams, Marcus Smart",2,0,2,0,1,0.25,2,2022-23,BOS,0.0,1,3
+571,Malcolm Brogdon,1627763,2,6,4,2,4,0.5,1,0,2,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Grant Williams, Marcus Smart",2,0,2,0,1,0.25,2,2022-23,BOS,25.0,1,3
+572,Jayson Tatum,1628369,2,6,4,0,4,0.0,0,1,0,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Grant Williams, Marcus Smart",2,0,2,0,1,0.25,2,2022-23,BOS,0.0,1,3
+573,Grant Williams,1629684,2,6,4,0,4,0.0,0,0,0,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Grant Williams, Marcus Smart",2,0,2,0,1,0.25,2,2022-23,BOS,0.0,0,3
+574,Marcus Smart,203935,2,6,4,0,4,0.0,0,0,0,"Jaylen Brown, Malcolm Brogdon, Jayson Tatum, Grant Williams, Marcus Smart",2,0,2,0,1,0.25,2,2022-23,BOS,0.0,0,3
+575,Malcolm Brogdon,1627763,15,31,31,7,39,0.7,1,2,4,"Malcolm Brogdon, Jayson Tatum, Derrick White, Robert Williams III, Sam Hauser",45,11,18,4,8,0.703125,12,2022-23,BOS,16.93548387096774,3,26
+576,Jayson Tatum,1628369,15,31,31,13,39,0.5416666666666666,6,4,4,"Malcolm Brogdon, Jayson Tatum, Derrick White, Robert Williams III, Sam Hauser",45,11,18,4,8,0.703125,12,2022-23,BOS,31.451612903225808,10,26
+577,Derrick White,1628401,15,31,31,8,39,0.8,3,1,2,"Malcolm Brogdon, Jayson Tatum, Derrick White, Robert Williams III, Sam Hauser",45,11,18,4,8,0.703125,12,2022-23,BOS,19.35483870967742,4,26
+578,Robert Williams III,1629057,15,31,31,12,39,0.75,7,0,2,"Malcolm Brogdon, Jayson Tatum, Derrick White, Robert Williams III, Sam Hauser",45,11,18,4,8,0.703125,12,2022-23,BOS,29.032258064516128,7,26
+579,Sam Hauser,1630573,15,31,31,5,39,1.25,1,1,0,"Malcolm Brogdon, Jayson Tatum, Derrick White, Robert Williams III, Sam Hauser",45,11,18,4,8,0.703125,12,2022-23,BOS,12.096774193548388,2,26
+580,Malcolm Brogdon,1627763,3,6,6,0,6,0.0,1,0,0,"Malcolm Brogdon, Jayson Tatum, Robert Williams III, Payton Pritchard, Marcus Smart",8,2,4,1,1,0.8,1,2022-23,BOS,0.0,1,5
+581,Jayson Tatum,1628369,3,6,6,6,6,1.0,2,1,1,"Malcolm Brogdon, Jayson Tatum, Robert Williams III, Payton Pritchard, Marcus Smart",8,2,4,1,1,0.8,1,2022-23,BOS,75.0,3,5
+582,Robert Williams III,1629057,3,6,6,2,6,1.0,1,0,0,"Malcolm Brogdon, Jayson Tatum, Robert Williams III, Payton Pritchard, Marcus Smart",8,2,4,1,1,0.8,1,2022-23,BOS,25.0,1,5
+583,Payton Pritchard,1630202,3,6,6,0,6,0.0,0,0,0,"Malcolm Brogdon, Jayson Tatum, Robert Williams III, Payton Pritchard, Marcus Smart",8,2,4,1,1,0.8,1,2022-23,BOS,0.0,0,5
+584,Marcus Smart,203935,3,6,6,0,6,0.0,0,0,0,"Malcolm Brogdon, Jayson Tatum, Robert Williams III, Payton Pritchard, Marcus Smart",8,2,4,1,1,0.8,1,2022-23,BOS,0.0,0,5
+585,Jaylen Brown,1627759,63,124,125,30,144,0.5172413793103449,24,4,2,"Jaylen Brown, Jayson Tatum, Robert Williams III, Al Horford, Marcus Smart",146,44,79,14,36,0.5887096774193549,19,2022-23,BOS,18.14516129032258,28,115
+586,Jayson Tatum,1628369,63,124,125,45,144,0.6081081081081081,23,10,7,"Jaylen Brown, Jayson Tatum, Robert Williams III, Al Horford, Marcus Smart",146,44,79,14,36,0.5887096774193549,19,2022-23,BOS,27.217741935483872,33,115
+587,Robert Williams III,1629057,63,124,125,29,144,0.725,19,0,4,"Jaylen Brown, Jayson Tatum, Robert Williams III, Al Horford, Marcus Smart",146,44,79,14,36,0.5887096774193549,19,2022-23,BOS,17.54032258064516,19,115
+588,Al Horford,201143,63,124,125,8,144,0.2857142857142857,2,12,0,"Jaylen Brown, Jayson Tatum, Robert Williams III, Al Horford, Marcus Smart",146,44,79,14,36,0.5887096774193549,19,2022-23,BOS,4.838709677419355,14,115
+589,Marcus Smart,203935,63,124,125,34,144,0.7083333333333334,11,10,6,"Jaylen Brown, Jayson Tatum, Robert Williams III, Al Horford, Marcus Smart",146,44,79,14,36,0.5887096774193549,19,2022-23,BOS,20.56451612903226,21,115
+590,Malcolm Brogdon,1627763,3,5,6,3,6,1.5,0,1,0,"Malcolm Brogdon, Jayson Tatum, Robert Williams III, Al Horford, Marcus Smart",5,1,1,1,2,0.8333333333333334,0,2022-23,BOS,45.0,1,3
+591,Jayson Tatum,1628369,3,5,6,0,6,0.0,0,0,0,"Malcolm Brogdon, Jayson Tatum, Robert Williams III, Al Horford, Marcus Smart",5,1,1,1,2,0.8333333333333334,0,2022-23,BOS,0.0,0,3
+592,Robert Williams III,1629057,3,5,6,0,6,0.0,0,0,0,"Malcolm Brogdon, Jayson Tatum, Robert Williams III, Al Horford, Marcus Smart",5,1,1,1,2,0.8333333333333334,0,2022-23,BOS,0.0,0,3
+593,Al Horford,201143,3,5,6,0,6,0.0,0,0,0,"Malcolm Brogdon, Jayson Tatum, Robert Williams III, Al Horford, Marcus Smart",5,1,1,1,2,0.8333333333333334,0,2022-23,BOS,0.0,0,3
+594,Marcus Smart,203935,3,5,6,2,6,0.5,1,1,0,"Malcolm Brogdon, Jayson Tatum, Robert Williams III, Al Horford, Marcus Smart",5,1,1,1,2,0.8333333333333334,0,2022-23,BOS,30.0,2,3
+595,Luke Kornet,1628436,4,8,7,2,4,1.0,1,0,0,"Luke Kornet, Grant Williams, Payton Pritchard, Sam Hauser, Marcus Smart",10,2,4,1,5,0.5,3,2022-23,BOS,18.75,1,9
+596,Grant Williams,1629684,4,8,7,0,4,0.0,0,1,0,"Luke Kornet, Grant Williams, Payton Pritchard, Sam Hauser, Marcus Smart",10,2,4,1,5,0.5,3,2022-23,BOS,0.0,1,9
+597,Payton Pritchard,1630202,4,8,7,3,4,0.75,2,0,1,"Luke Kornet, Grant Williams, Payton Pritchard, Sam Hauser, Marcus Smart",10,2,4,1,5,0.5,3,2022-23,BOS,28.125,2,9
+598,Sam Hauser,1630573,4,8,7,3,4,0.75,0,2,0,"Luke Kornet, Grant Williams, Payton Pritchard, Sam Hauser, Marcus Smart",10,2,4,1,5,0.5,3,2022-23,BOS,28.125,2,9
+599,Marcus Smart,203935,4,8,7,2,4,0.25,1,2,2,"Luke Kornet, Grant Williams, Payton Pritchard, Sam Hauser, Marcus Smart",10,2,4,1,5,0.5,3,2022-23,BOS,18.75,3,9
+600,Jaylen Brown,1627759,15,29,29,5,43,0.2777777777777778,6,2,2,"Jaylen Brown, Malcolm Brogdon, Robert Williams III, Grant Williams, Marcus Smart",35,7,15,5,11,0.5645161290322581,10,2022-23,BOS,12.931034482758621,8,26
+601,Malcolm Brogdon,1627763,15,29,29,8,43,0.5714285714285714,4,3,0,"Jaylen Brown, Malcolm Brogdon, Robert Williams III, Grant Williams, Marcus Smart",35,7,15,5,11,0.5645161290322581,10,2022-23,BOS,20.689655172413794,7,26
+602,Robert Williams III,1629057,15,29,29,8,43,0.6666666666666666,4,0,4,"Jaylen Brown, Malcolm Brogdon, Robert Williams III, Grant Williams, Marcus Smart",35,7,15,5,11,0.5645161290322581,10,2022-23,BOS,20.689655172413794,4,26
+603,Grant Williams,1629684,15,29,29,5,43,1.25,0,1,2,"Jaylen Brown, Malcolm Brogdon, Robert Williams III, Grant Williams, Marcus Smart",35,7,15,5,11,0.5645161290322581,10,2022-23,BOS,12.931034482758621,1,26
+604,Marcus Smart,203935,15,29,29,9,43,0.6428571428571429,1,5,2,"Jaylen Brown, Malcolm Brogdon, Robert Williams III, Grant Williams, Marcus Smart",35,7,15,5,11,0.5645161290322581,10,2022-23,BOS,23.275862068965516,6,26
+605,Jaylen Brown,1627759,25,52,51,14,64,0.4375,11,4,2,"Jaylen Brown, Malcolm Brogdon, Derrick White, Robert Williams III, Grant Williams",57,14,24,6,20,0.5816326530612245,11,2022-23,BOS,20.192307692307693,15,44
+606,Malcolm Brogdon,1627763,25,52,51,24,64,0.6666666666666666,7,9,4,"Jaylen Brown, Malcolm Brogdon, Derrick White, Robert Williams III, Grant Williams",57,14,24,6,20,0.5816326530612245,11,2022-23,BOS,34.61538461538461,16,44
+607,Derrick White,1628401,25,52,51,8,64,0.5,2,5,3,"Jaylen Brown, Malcolm Brogdon, Derrick White, Robert Williams III, Grant Williams",57,14,24,6,20,0.5816326530612245,11,2022-23,BOS,11.538461538461538,7,44
+608,Robert Williams III,1629057,25,52,51,8,64,0.8,4,0,2,"Jaylen Brown, Malcolm Brogdon, Derrick White, Robert Williams III, Grant Williams",57,14,24,6,20,0.5816326530612245,11,2022-23,BOS,11.538461538461538,4,44
+609,Grant Williams,1629684,25,52,51,3,64,0.75,0,2,0,"Jaylen Brown, Malcolm Brogdon, Derrick White, Robert Williams III, Grant Williams",57,14,24,6,20,0.5816326530612245,11,2022-23,BOS,4.326923076923077,2,44
+610,Jaylen Brown,1627759,5,6,8,0,14,0.0,0,1,0,"Jaylen Brown, Derrick White, Grant Williams, Al Horford, Marcus Smart",10,2,2,2,7,0.5555555555555556,0,2022-23,BOS,0.0,1,9
+611,Derrick White,1628401,5,6,8,6,14,1.0,0,3,0,"Jaylen Brown, Derrick White, Grant Williams, Al Horford, Marcus Smart",10,2,2,2,7,0.5555555555555556,0,2022-23,BOS,75.0,3,9
+612,Grant Williams,1629684,5,6,8,0,14,0.0,0,1,0,"Jaylen Brown, Derrick White, Grant Williams, Al Horford, Marcus Smart",10,2,2,2,7,0.5555555555555556,0,2022-23,BOS,0.0,1,9
+613,Al Horford,201143,5,6,8,0,14,0.0,0,1,0,"Jaylen Brown, Derrick White, Grant Williams, Al Horford, Marcus Smart",10,2,2,2,7,0.5555555555555556,0,2022-23,BOS,0.0,1,9
+614,Marcus Smart,203935,5,6,8,4,14,0.6666666666666666,2,1,0,"Jaylen Brown, Derrick White, Grant Williams, Al Horford, Marcus Smart",10,2,2,2,7,0.5555555555555556,0,2022-23,BOS,50.0,3,9
+615,Jaylen Brown,1627759,2,4,4,2,3,1.0,1,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Sam Hauser, Al Horford",4,2,2,0,3,0.4,0,2023-24,BOS,37.5,1,5
+616,Jayson Tatum,1628369,2,4,4,0,3,0.0,0,1,0,"Jaylen Brown, Jayson Tatum, Derrick White, Sam Hauser, Al Horford",4,2,2,0,3,0.4,0,2023-24,BOS,0.0,1,5
+617,Derrick White,1628401,2,4,4,0,3,0.0,0,1,0,"Jaylen Brown, Jayson Tatum, Derrick White, Sam Hauser, Al Horford",4,2,2,0,3,0.4,0,2023-24,BOS,0.0,1,5
+618,Sam Hauser,1630573,2,4,4,0,3,0.0,0,1,0,"Jaylen Brown, Jayson Tatum, Derrick White, Sam Hauser, Al Horford",4,2,2,0,3,0.4,0,2023-24,BOS,0.0,1,5
+619,Al Horford,201143,2,4,4,2,3,1.0,1,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Sam Hauser, Al Horford",4,2,2,0,3,0.4,0,2023-24,BOS,37.5,1,5
+620,Jaylen Brown,1627759,42,80,80,39,77,0.6290322580645161,17,12,4,"Jaylen Brown, Jayson Tatum, Derrick White, Al Horford, Jrue Holiday",98,25,35,11,36,0.6282051282051282,19,2023-24,BOS,36.5625,29,71
+621,Jayson Tatum,1628369,42,80,80,16,77,0.6153846153846154,3,6,11,"Jaylen Brown, Jayson Tatum, Derrick White, Al Horford, Jrue Holiday",98,25,35,11,36,0.6282051282051282,19,2023-24,BOS,15.0,9,71
+622,Derrick White,1628401,42,80,80,32,77,0.7272727272727273,9,12,4,"Jaylen Brown, Jayson Tatum, Derrick White, Al Horford, Jrue Holiday",98,25,35,11,36,0.6282051282051282,19,2023-24,BOS,30.0,21,71
+623,Al Horford,201143,42,80,80,8,77,0.5714285714285714,4,3,0,"Jaylen Brown, Jayson Tatum, Derrick White, Al Horford, Jrue Holiday",98,25,35,11,36,0.6282051282051282,19,2023-24,BOS,7.5,7,71
+624,Jrue Holiday,201950,42,80,80,3,77,0.3,2,3,0,"Jaylen Brown, Jayson Tatum, Derrick White, Al Horford, Jrue Holiday",98,25,35,11,36,0.6282051282051282,19,2023-24,BOS,2.8125,5,71
+625,Svi Mykhailiuk,1629004,2,3,3,0,4,0.0,0,0,0,"Svi Mykhailiuk, Payton Pritchard, Xavier Tillman, Jaden Springer, Sam Hauser",8,1,1,2,2,1.3333333333333333,0,2023-24,BOS,0.0,0,3
+626,Payton Pritchard,1630202,2,3,3,0,4,0.0,0,0,0,"Svi Mykhailiuk, Payton Pritchard, Xavier Tillman, Jaden Springer, Sam Hauser",8,1,1,2,2,1.3333333333333333,0,2023-24,BOS,0.0,0,3
+627,Xavier Tillman,1630214,2,3,3,2,4,1.0,1,0,0,"Svi Mykhailiuk, Payton Pritchard, Xavier Tillman, Jaden Springer, Sam Hauser",8,1,1,2,2,1.3333333333333333,0,2023-24,BOS,50.0,1,3
+628,Jaden Springer,1630531,2,3,3,0,4,0.0,0,0,0,"Svi Mykhailiuk, Payton Pritchard, Xavier Tillman, Jaden Springer, Sam Hauser",8,1,1,2,2,1.3333333333333333,0,2023-24,BOS,0.0,0,3
+629,Sam Hauser,1630573,2,3,3,6,4,1.5,0,2,0,"Svi Mykhailiuk, Payton Pritchard, Xavier Tillman, Jaden Springer, Sam Hauser",8,1,1,2,2,1.3333333333333333,0,2023-24,BOS,150.0,2,3
+630,Jaylen Brown,1627759,2,4,5,0,9,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Payton Pritchard, Al Horford, Jrue Holiday",5,2,2,0,1,0.625,2,2023-24,BOS,0.0,0,3
+631,Jayson Tatum,1628369,2,4,5,2,9,1.0,1,0,0,"Jaylen Brown, Jayson Tatum, Payton Pritchard, Al Horford, Jrue Holiday",5,2,2,0,1,0.625,2,2023-24,BOS,37.5,1,3
+632,Payton Pritchard,1630202,2,4,5,0,9,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Payton Pritchard, Al Horford, Jrue Holiday",5,2,2,0,1,0.625,2,2023-24,BOS,0.0,0,3
+633,Al Horford,201143,2,4,5,3,9,0.75,1,0,2,"Jaylen Brown, Jayson Tatum, Payton Pritchard, Al Horford, Jrue Holiday",5,2,2,0,1,0.625,2,2023-24,BOS,56.25,1,3
+634,Jrue Holiday,201950,2,4,5,0,9,0.0,0,1,0,"Jaylen Brown, Jayson Tatum, Payton Pritchard, Al Horford, Jrue Holiday",5,2,2,0,1,0.625,2,2023-24,BOS,0.0,1,3
+635,Jaylen Brown,1627759,5,9,10,5,10,0.5,4,0,2,"Jaylen Brown, Derrick White, Payton Pritchard, Sam Hauser, Al Horford",10,3,6,1,3,0.5,2,2023-24,BOS,41.666666666666664,4,9
+636,Derrick White,1628401,5,9,10,3,10,0.75,1,1,0,"Jaylen Brown, Derrick White, Payton Pritchard, Sam Hauser, Al Horford",10,3,6,1,3,0.5,2,2023-24,BOS,25.0,2,9
+637,Payton Pritchard,1630202,5,9,10,0,10,0.0,0,0,0,"Jaylen Brown, Derrick White, Payton Pritchard, Sam Hauser, Al Horford",10,3,6,1,3,0.5,2,2023-24,BOS,0.0,0,9
+638,Sam Hauser,1630573,5,9,10,2,10,0.3333333333333333,1,2,0,"Jaylen Brown, Derrick White, Payton Pritchard, Sam Hauser, Al Horford",10,3,6,1,3,0.5,2,2023-24,BOS,16.666666666666668,3,9
+639,Al Horford,201143,5,9,10,0,10,0.0,0,0,0,"Jaylen Brown, Derrick White, Payton Pritchard, Sam Hauser, Al Horford",10,3,6,1,3,0.5,2,2023-24,BOS,0.0,0,9
+640,Jaylen Brown,1627759,3,5,5,2,4,1.0,1,0,0,"Jaylen Brown, Derrick White, Sam Hauser, Al Horford, Kristaps Porzingis",6,3,4,0,1,0.6,0,2023-24,BOS,30.0,1,5
+641,Derrick White,1628401,3,5,5,4,4,1.0,2,0,0,"Jaylen Brown, Derrick White, Sam Hauser, Al Horford, Kristaps Porzingis",6,3,4,0,1,0.6,0,2023-24,BOS,60.0,2,5
+642,Sam Hauser,1630573,3,5,5,0,4,0.0,0,0,0,"Jaylen Brown, Derrick White, Sam Hauser, Al Horford, Kristaps Porzingis",6,3,4,0,1,0.6,0,2023-24,BOS,0.0,0,5
+643,Al Horford,201143,3,5,5,0,4,0.0,0,0,0,"Jaylen Brown, Derrick White, Sam Hauser, Al Horford, Kristaps Porzingis",6,3,4,0,1,0.6,0,2023-24,BOS,0.0,0,5
+644,Kristaps Porzingis,204001,3,5,5,0,4,0.0,1,1,0,"Jaylen Brown, Derrick White, Sam Hauser, Al Horford, Kristaps Porzingis",6,3,4,0,1,0.6,0,2023-24,BOS,0.0,2,5
+645,Jaylen Brown,1627759,14,29,29,8,28,0.4,7,1,4,"Jaylen Brown, Derrick White, Payton Pritchard, Al Horford, Kristaps Porzingis",31,7,14,5,10,0.5740740740740741,6,2023-24,BOS,20.689655172413794,8,24
+646,Derrick White,1628401,14,29,29,17,28,0.9444444444444444,3,5,2,"Jaylen Brown, Derrick White, Payton Pritchard, Al Horford, Kristaps Porzingis",31,7,14,5,10,0.5740740740740741,6,2023-24,BOS,43.96551724137931,8,24
+647,Payton Pritchard,1630202,14,29,29,3,28,0.75,1,1,0,"Jaylen Brown, Derrick White, Payton Pritchard, Al Horford, Kristaps Porzingis",31,7,14,5,10,0.5740740740740741,6,2023-24,BOS,7.758620689655173,2,24
+648,Al Horford,201143,14,29,29,0,28,0.0,0,0,0,"Jaylen Brown, Derrick White, Payton Pritchard, Al Horford, Kristaps Porzingis",31,7,14,5,10,0.5740740740740741,6,2023-24,BOS,0.0,0,24
+649,Kristaps Porzingis,204001,14,29,29,3,28,0.25,3,3,0,"Jaylen Brown, Derrick White, Payton Pritchard, Al Horford, Kristaps Porzingis",31,7,14,5,10,0.5740740740740741,6,2023-24,BOS,7.758620689655173,6,24
+650,Jaylen Brown,1627759,4,8,6,0,7,0.0,0,1,0,"Jaylen Brown, Jayson Tatum, Derrick White, Payton Pritchard, Al Horford",16,1,1,4,6,0.9375,3,2023-24,BOS,0.0,1,7
+651,Jayson Tatum,1628369,4,8,6,0,7,0.0,0,0,1,"Jaylen Brown, Jayson Tatum, Derrick White, Payton Pritchard, Al Horford",16,1,1,4,6,0.9375,3,2023-24,BOS,0.0,0,7
+652,Derrick White,1628401,4,8,6,11,7,1.1,1,4,0,"Jaylen Brown, Jayson Tatum, Derrick White, Payton Pritchard, Al Horford",16,1,1,4,6,0.9375,3,2023-24,BOS,103.125,5,7
+653,Payton Pritchard,1630202,4,8,6,0,7,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Payton Pritchard, Al Horford",16,1,1,4,6,0.9375,3,2023-24,BOS,0.0,0,7
+654,Al Horford,201143,4,8,6,4,7,1.0,0,1,2,"Jaylen Brown, Jayson Tatum, Derrick White, Payton Pritchard, Al Horford",16,1,1,4,6,0.9375,3,2023-24,BOS,37.5,1,7
+655,Jaylen Brown,1627759,7,13,11,0,14,0.0,1,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Payton Pritchard, Kristaps Porzingis",12,2,4,2,7,0.5,2,2023-24,BOS,0.0,1,11
+656,Jayson Tatum,1628369,7,13,11,0,14,0.0,1,2,0,"Jaylen Brown, Jayson Tatum, Derrick White, Payton Pritchard, Kristaps Porzingis",12,2,4,2,7,0.5,2,2023-24,BOS,0.0,3,11
+657,Derrick White,1628401,7,13,11,2,14,0.3333333333333333,1,2,0,"Jaylen Brown, Jayson Tatum, Derrick White, Payton Pritchard, Kristaps Porzingis",12,2,4,2,7,0.5,2,2023-24,BOS,11.538461538461538,3,11
+658,Payton Pritchard,1630202,7,13,11,0,14,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Payton Pritchard, Kristaps Porzingis",12,2,4,2,7,0.5,2,2023-24,BOS,0.0,0,11
+659,Kristaps Porzingis,204001,7,13,11,10,14,1.0,1,3,2,"Jaylen Brown, Jayson Tatum, Derrick White, Payton Pritchard, Kristaps Porzingis",12,2,4,2,7,0.5,2,2023-24,BOS,57.69230769230769,4,11
+660,Jaylen Brown,1627759,3,6,6,2,1,1.0,1,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Luke Kornet, Jrue Holiday",4,2,3,0,0,0.6666666666666666,0,2023-24,BOS,25.0,1,3
+661,Jayson Tatum,1628369,3,6,6,2,1,0.5,2,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Luke Kornet, Jrue Holiday",4,2,3,0,0,0.6666666666666666,0,2023-24,BOS,25.0,2,3
+662,Derrick White,1628401,3,6,6,0,1,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Luke Kornet, Jrue Holiday",4,2,3,0,0,0.6666666666666666,0,2023-24,BOS,0.0,0,3
+663,Luke Kornet,1628436,3,6,6,0,1,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Luke Kornet, Jrue Holiday",4,2,3,0,0,0.6666666666666666,0,2023-24,BOS,0.0,0,3
+664,Jrue Holiday,201950,3,6,6,0,1,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Luke Kornet, Jrue Holiday",4,2,3,0,0,0.6666666666666666,0,2023-24,BOS,0.0,0,3
+665,Jaylen Brown,1627759,2,3,3,0,0,0.0,1,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Al Horford, Kristaps Porzingis",0,0,1,0,1,0.0,0,2023-24,BOS,0.0,1,2
+666,Jayson Tatum,1628369,2,3,3,0,0,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Al Horford, Kristaps Porzingis",0,0,1,0,1,0.0,0,2023-24,BOS,0.0,0,2
+667,Derrick White,1628401,2,3,3,0,0,0.0,0,1,0,"Jaylen Brown, Jayson Tatum, Derrick White, Al Horford, Kristaps Porzingis",0,0,1,0,1,0.0,0,2023-24,BOS,0.0,1,2
+668,Al Horford,201143,2,3,3,0,0,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Al Horford, Kristaps Porzingis",0,0,1,0,1,0.0,0,2023-24,BOS,0.0,0,2
+669,Kristaps Porzingis,204001,2,3,3,0,0,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Al Horford, Kristaps Porzingis",0,0,1,0,1,0.0,0,2023-24,BOS,0.0,0,2
+670,Derrick White,1628401,3,7,8,3,8,0.75,0,2,0,"Derrick White, Luke Kornet, Payton Pritchard, Sam Hauser, Jrue Holiday",10,2,2,2,5,0.7142857142857143,0,2023-24,BOS,32.142857142857146,2,7
+671,Luke Kornet,1628436,3,7,8,2,8,1.0,1,0,0,"Derrick White, Luke Kornet, Payton Pritchard, Sam Hauser, Jrue Holiday",10,2,2,2,5,0.7142857142857143,0,2023-24,BOS,21.428571428571427,1,7
+672,Payton Pritchard,1630202,3,7,8,2,8,0.5,1,1,0,"Derrick White, Luke Kornet, Payton Pritchard, Sam Hauser, Jrue Holiday",10,2,2,2,5,0.7142857142857143,0,2023-24,BOS,21.428571428571427,2,7
+673,Sam Hauser,1630573,3,7,8,3,8,1.5,0,1,0,"Derrick White, Luke Kornet, Payton Pritchard, Sam Hauser, Jrue Holiday",10,2,2,2,5,0.7142857142857143,0,2023-24,BOS,32.142857142857146,1,7
+674,Jrue Holiday,201950,3,7,8,0,8,0.0,0,1,0,"Derrick White, Luke Kornet, Payton Pritchard, Sam Hauser, Jrue Holiday",10,2,2,2,5,0.7142857142857143,0,2023-24,BOS,0.0,1,7
+675,Jaylen Brown,1627759,3,8,7,0,8,0.0,3,0,0,"Jaylen Brown, Derrick White, Payton Pritchard, Al Horford, Jrue Holiday",4,1,5,0,1,0.2857142857142857,2,2023-24,BOS,0.0,3,6
+676,Derrick White,1628401,3,8,7,0,8,0.0,0,0,0,"Jaylen Brown, Derrick White, Payton Pritchard, Al Horford, Jrue Holiday",4,1,5,0,1,0.2857142857142857,2,2023-24,BOS,0.0,0,6
+677,Payton Pritchard,1630202,3,8,7,2,8,0.3333333333333333,1,1,2,"Jaylen Brown, Derrick White, Payton Pritchard, Al Horford, Jrue Holiday",4,1,5,0,1,0.2857142857142857,2,2023-24,BOS,18.75,2,6
+678,Al Horford,201143,3,8,7,0,8,0.0,0,0,0,"Jaylen Brown, Derrick White, Payton Pritchard, Al Horford, Jrue Holiday",4,1,5,0,1,0.2857142857142857,2,2023-24,BOS,0.0,0,6
+679,Jrue Holiday,201950,3,8,7,2,8,1.0,1,0,0,"Jaylen Brown, Derrick White, Payton Pritchard, Al Horford, Jrue Holiday",4,1,5,0,1,0.2857142857142857,2,2023-24,BOS,18.75,1,6
+680,Luke Kornet,1628436,2,3,3,0,3,0.0,0,0,0,"Luke Kornet, Svi Mykhailiuk, Payton Pritchard, Sam Hauser, Jrue Holiday",0,0,1,0,1,0.0,0,2023-24,BOS,0.0,0,2
+681,Svi Mykhailiuk,1629004,2,3,3,0,3,0.0,0,0,0,"Luke Kornet, Svi Mykhailiuk, Payton Pritchard, Sam Hauser, Jrue Holiday",0,0,1,0,1,0.0,0,2023-24,BOS,0.0,0,2
+682,Payton Pritchard,1630202,2,3,3,0,3,0.0,1,0,0,"Luke Kornet, Svi Mykhailiuk, Payton Pritchard, Sam Hauser, Jrue Holiday",0,0,1,0,1,0.0,0,2023-24,BOS,0.0,1,2
+683,Sam Hauser,1630573,2,3,3,0,3,0.0,0,1,0,"Luke Kornet, Svi Mykhailiuk, Payton Pritchard, Sam Hauser, Jrue Holiday",0,0,1,0,1,0.0,0,2023-24,BOS,0.0,1,2
+684,Jrue Holiday,201950,2,3,3,0,3,0.0,0,0,0,"Luke Kornet, Svi Mykhailiuk, Payton Pritchard, Sam Hauser, Jrue Holiday",0,0,1,0,1,0.0,0,2023-24,BOS,0.0,0,2
+685,Jayson Tatum,1628369,5,8,9,2,9,0.5,2,0,0,"Jayson Tatum, Payton Pritchard, Sam Hauser, Jrue Holiday, Kristaps Porzingis",13,5,6,1,3,0.7222222222222222,0,2023-24,BOS,18.75,2,9
+686,Payton Pritchard,1630202,5,8,9,4,9,1.0,2,0,0,"Jayson Tatum, Payton Pritchard, Sam Hauser, Jrue Holiday, Kristaps Porzingis",13,5,6,1,3,0.7222222222222222,0,2023-24,BOS,37.5,2,9
+687,Sam Hauser,1630573,5,8,9,2,9,0.5,1,1,0,"Jayson Tatum, Payton Pritchard, Sam Hauser, Jrue Holiday, Kristaps Porzingis",13,5,6,1,3,0.7222222222222222,0,2023-24,BOS,18.75,2,9
+688,Jrue Holiday,201950,5,8,9,2,9,1.0,1,0,0,"Jayson Tatum, Payton Pritchard, Sam Hauser, Jrue Holiday, Kristaps Porzingis",13,5,6,1,3,0.7222222222222222,0,2023-24,BOS,18.75,1,9
+689,Kristaps Porzingis,204001,5,8,9,3,9,0.75,0,2,0,"Jayson Tatum, Payton Pritchard, Sam Hauser, Jrue Holiday, Kristaps Porzingis",13,5,6,1,3,0.7222222222222222,0,2023-24,BOS,28.125,2,9
+690,Jayson Tatum,1628369,4,8,7,2,2,0.5,1,1,0,"Jayson Tatum, Luke Kornet, Payton Pritchard, Sam Hauser, Jrue Holiday",7,2,3,1,4,0.5,0,2023-24,BOS,18.75,2,7
+691,Luke Kornet,1628436,4,8,7,0,2,0.0,0,0,0,"Jayson Tatum, Luke Kornet, Payton Pritchard, Sam Hauser, Jrue Holiday",7,2,3,1,4,0.5,0,2023-24,BOS,0.0,0,7
+692,Payton Pritchard,1630202,4,8,7,0,2,0.0,0,1,0,"Jayson Tatum, Luke Kornet, Payton Pritchard, Sam Hauser, Jrue Holiday",7,2,3,1,4,0.5,0,2023-24,BOS,0.0,1,7
+693,Sam Hauser,1630573,4,8,7,0,2,0.0,1,1,0,"Jayson Tatum, Luke Kornet, Payton Pritchard, Sam Hauser, Jrue Holiday",7,2,3,1,4,0.5,0,2023-24,BOS,0.0,2,7
+694,Jrue Holiday,201950,4,8,7,5,2,1.25,1,1,0,"Jayson Tatum, Luke Kornet, Payton Pritchard, Sam Hauser, Jrue Holiday",7,2,3,1,4,0.5,0,2023-24,BOS,46.875,2,7
+695,Jaylen Brown,1627759,2,3,2,0,2,0.0,1,0,0,"Jaylen Brown, Derrick White, Sam Hauser, Jrue Holiday, Kristaps Porzingis",0,0,2,0,1,0.0,0,2023-24,BOS,0.0,1,3
+696,Derrick White,1628401,2,3,2,0,2,0.0,0,1,0,"Jaylen Brown, Derrick White, Sam Hauser, Jrue Holiday, Kristaps Porzingis",0,0,2,0,1,0.0,0,2023-24,BOS,0.0,1,3
+697,Sam Hauser,1630573,2,3,2,0,2,0.0,0,0,0,"Jaylen Brown, Derrick White, Sam Hauser, Jrue Holiday, Kristaps Porzingis",0,0,2,0,1,0.0,0,2023-24,BOS,0.0,0,3
+698,Jrue Holiday,201950,2,3,2,0,2,0.0,0,0,0,"Jaylen Brown, Derrick White, Sam Hauser, Jrue Holiday, Kristaps Porzingis",0,0,2,0,1,0.0,0,2023-24,BOS,0.0,0,3
+699,Kristaps Porzingis,204001,2,3,2,0,2,0.0,1,0,0,"Jaylen Brown, Derrick White, Sam Hauser, Jrue Holiday, Kristaps Porzingis",0,0,2,0,1,0.0,0,2023-24,BOS,0.0,1,3
+700,Jaylen Brown,1627759,5,8,9,0,18,0.0,1,0,0,"Jaylen Brown, Jayson Tatum, Al Horford, Jrue Holiday, Kristaps Porzingis",2,1,6,0,1,0.14285714285714285,0,2023-24,BOS,0.0,1,7
+701,Jayson Tatum,1628369,5,8,9,0,18,0.0,1,0,0,"Jaylen Brown, Jayson Tatum, Al Horford, Jrue Holiday, Kristaps Porzingis",2,1,6,0,1,0.14285714285714285,0,2023-24,BOS,0.0,1,7
+702,Al Horford,201143,5,8,9,0,18,0.0,0,1,0,"Jaylen Brown, Jayson Tatum, Al Horford, Jrue Holiday, Kristaps Porzingis",2,1,6,0,1,0.14285714285714285,0,2023-24,BOS,0.0,1,7
+703,Jrue Holiday,201950,5,8,9,0,18,0.0,3,0,0,"Jaylen Brown, Jayson Tatum, Al Horford, Jrue Holiday, Kristaps Porzingis",2,1,6,0,1,0.14285714285714285,0,2023-24,BOS,0.0,3,7
+704,Kristaps Porzingis,204001,5,8,9,2,18,1.0,1,0,0,"Jaylen Brown, Jayson Tatum, Al Horford, Jrue Holiday, Kristaps Porzingis",2,1,6,0,1,0.14285714285714285,0,2023-24,BOS,18.75,1,7
+705,Jayson Tatum,1628369,35,64,61,45,56,0.8148148148148148,10,8,20,"Jayson Tatum, Payton Pritchard, Sam Hauser, Al Horford, Jrue Holiday",97,12,22,19,38,0.6956521739130435,20,2023-24,BOS,52.734375,18,60
+706,Payton Pritchard,1630202,35,64,61,8,56,0.4,3,7,0,"Jayson Tatum, Payton Pritchard, Sam Hauser, Al Horford, Jrue Holiday",97,12,22,19,38,0.6956521739130435,20,2023-24,BOS,9.375,10,60
+707,Sam Hauser,1630573,35,64,61,27,56,0.9,1,14,0,"Jayson Tatum, Payton Pritchard, Sam Hauser, Al Horford, Jrue Holiday",97,12,22,19,38,0.6956521739130435,20,2023-24,BOS,31.640625,15,60
+708,Al Horford,201143,35,64,61,9,56,0.5,5,4,0,"Jayson Tatum, Payton Pritchard, Sam Hauser, Al Horford, Jrue Holiday",97,12,22,19,38,0.6956521739130435,20,2023-24,BOS,10.546875,9,60
+709,Jrue Holiday,201950,35,64,61,8,56,0.5,3,5,0,"Jayson Tatum, Payton Pritchard, Sam Hauser, Al Horford, Jrue Holiday",97,12,22,19,38,0.6956521739130435,20,2023-24,BOS,9.375,8,60
+710,Jaylen Brown,1627759,61,112,113,43,119,0.6515151515151515,19,11,7,"Jaylen Brown, Jayson Tatum, Derrick White, Jrue Holiday, Kristaps Porzingis",142,31,56,18,48,0.5966386554621849,30,2023-24,BOS,28.794642857142858,30,104
+711,Jayson Tatum,1628369,61,112,113,29,119,0.48333333333333334,16,10,7,"Jaylen Brown, Jayson Tatum, Derrick White, Jrue Holiday, Kristaps Porzingis",142,31,56,18,48,0.5966386554621849,30,2023-24,BOS,19.419642857142858,26,104
+712,Derrick White,1628401,61,112,113,30,119,0.8333333333333334,5,12,2,"Jaylen Brown, Jayson Tatum, Derrick White, Jrue Holiday, Kristaps Porzingis",142,31,56,18,48,0.5966386554621849,30,2023-24,BOS,20.089285714285715,17,104
+713,Jrue Holiday,201950,61,112,113,14,119,0.4666666666666667,9,5,2,"Jaylen Brown, Jayson Tatum, Derrick White, Jrue Holiday, Kristaps Porzingis",142,31,56,18,48,0.5966386554621849,30,2023-24,BOS,9.375,14,104
+714,Kristaps Porzingis,204001,61,112,113,26,119,0.5652173913043478,7,10,12,"Jaylen Brown, Jayson Tatum, Derrick White, Jrue Holiday, Kristaps Porzingis",142,31,56,18,48,0.5966386554621849,30,2023-24,BOS,17.410714285714285,17,104
+715,Svi Mykhailiuk,1629004,5,9,9,0,9,0.0,0,2,0,"Svi Mykhailiuk, Oshae Brissett, Payton Pritchard, Xavier Tillman, Jaden Springer",8,4,7,0,2,0.4444444444444444,0,2023-24,BOS,0.0,2,9
+716,Oshae Brissett,1629052,5,9,9,4,9,0.5,4,0,0,"Svi Mykhailiuk, Oshae Brissett, Payton Pritchard, Xavier Tillman, Jaden Springer",8,4,7,0,2,0.4444444444444444,0,2023-24,BOS,33.333333333333336,4,9
+717,Payton Pritchard,1630202,5,9,9,2,9,0.5,2,0,0,"Svi Mykhailiuk, Oshae Brissett, Payton Pritchard, Xavier Tillman, Jaden Springer",8,4,7,0,2,0.4444444444444444,0,2023-24,BOS,16.666666666666668,2,9
+718,Xavier Tillman,1630214,5,9,9,0,9,0.0,0,0,0,"Svi Mykhailiuk, Oshae Brissett, Payton Pritchard, Xavier Tillman, Jaden Springer",8,4,7,0,2,0.4444444444444444,0,2023-24,BOS,0.0,0,9
+719,Jaden Springer,1630531,5,9,9,2,9,1.0,1,0,0,"Svi Mykhailiuk, Oshae Brissett, Payton Pritchard, Xavier Tillman, Jaden Springer",8,4,7,0,2,0.4444444444444444,0,2023-24,BOS,16.666666666666668,1,9
+720,Jaylen Brown,1627759,3,4,5,2,5,0.5,2,0,0,"Jaylen Brown, Derrick White, Luke Kornet, Payton Pritchard, Al Horford",2,1,3,0,0,0.3333333333333333,0,2023-24,BOS,37.5,2,3
+721,Derrick White,1628401,3,4,5,0,5,0.0,1,0,0,"Jaylen Brown, Derrick White, Luke Kornet, Payton Pritchard, Al Horford",2,1,3,0,0,0.3333333333333333,0,2023-24,BOS,0.0,1,3
+722,Luke Kornet,1628436,3,4,5,0,5,0.0,0,0,0,"Jaylen Brown, Derrick White, Luke Kornet, Payton Pritchard, Al Horford",2,1,3,0,0,0.3333333333333333,0,2023-24,BOS,0.0,0,3
+723,Payton Pritchard,1630202,3,4,5,0,5,0.0,0,0,0,"Jaylen Brown, Derrick White, Luke Kornet, Payton Pritchard, Al Horford",2,1,3,0,0,0.3333333333333333,0,2023-24,BOS,0.0,0,3
+724,Al Horford,201143,3,4,5,0,5,0.0,0,0,0,"Jaylen Brown, Derrick White, Luke Kornet, Payton Pritchard, Al Horford",2,1,3,0,0,0.3333333333333333,0,2023-24,BOS,0.0,0,3
+725,Jaylen Brown,1627759,3,5,5,7,4,0.875,2,1,3,"Jaylen Brown, Jayson Tatum, Luke Kornet, Sam Hauser, Jrue Holiday",10,2,3,2,2,0.8333333333333334,3,2023-24,BOS,105.0,3,5
+726,Jayson Tatum,1628369,3,5,5,0,4,0.0,1,0,0,"Jaylen Brown, Jayson Tatum, Luke Kornet, Sam Hauser, Jrue Holiday",10,2,3,2,2,0.8333333333333334,3,2023-24,BOS,0.0,1,5
+727,Luke Kornet,1628436,3,5,5,0,4,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Luke Kornet, Sam Hauser, Jrue Holiday",10,2,3,2,2,0.8333333333333334,3,2023-24,BOS,0.0,0,5
+728,Sam Hauser,1630573,3,5,5,0,4,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Luke Kornet, Sam Hauser, Jrue Holiday",10,2,3,2,2,0.8333333333333334,3,2023-24,BOS,0.0,0,5
+729,Jrue Holiday,201950,3,5,5,3,4,1.5,0,1,0,"Jaylen Brown, Jayson Tatum, Luke Kornet, Sam Hauser, Jrue Holiday",10,2,3,2,2,0.8333333333333334,3,2023-24,BOS,45.0,1,5
+730,Jaylen Brown,1627759,3,5,5,2,7,1.0,1,0,0,"Jaylen Brown, Payton Pritchard, Sam Hauser, Al Horford, Jrue Holiday",5,1,2,1,2,0.625,0,2023-24,BOS,30.0,1,4
+731,Payton Pritchard,1630202,3,5,5,0,7,0.0,0,0,0,"Jaylen Brown, Payton Pritchard, Sam Hauser, Al Horford, Jrue Holiday",5,1,2,1,2,0.625,0,2023-24,BOS,0.0,0,4
+732,Sam Hauser,1630573,3,5,5,0,7,0.0,0,0,0,"Jaylen Brown, Payton Pritchard, Sam Hauser, Al Horford, Jrue Holiday",5,1,2,1,2,0.625,0,2023-24,BOS,0.0,0,4
+733,Al Horford,201143,3,5,5,3,7,1.5,0,1,0,"Jaylen Brown, Payton Pritchard, Sam Hauser, Al Horford, Jrue Holiday",5,1,2,1,2,0.625,0,2023-24,BOS,45.0,1,4
+734,Jrue Holiday,201950,3,5,5,0,7,0.0,1,1,0,"Jaylen Brown, Payton Pritchard, Sam Hauser, Al Horford, Jrue Holiday",5,1,2,1,2,0.625,0,2023-24,BOS,0.0,2,4
+735,Jayson Tatum,1628369,5,11,11,6,12,0.42857142857142855,3,1,6,"Jayson Tatum, Derrick White, Luke Kornet, Payton Pritchard, Sam Hauser",15,3,6,1,4,0.5357142857142857,8,2023-24,BOS,40.90909090909091,4,10
+736,Derrick White,1628401,5,11,11,7,12,0.875,1,2,2,"Jayson Tatum, Derrick White, Luke Kornet, Payton Pritchard, Sam Hauser",15,3,6,1,4,0.5357142857142857,8,2023-24,BOS,47.72727272727273,3,10
+737,Luke Kornet,1628436,5,11,11,2,12,0.5,2,0,0,"Jayson Tatum, Derrick White, Luke Kornet, Payton Pritchard, Sam Hauser",15,3,6,1,4,0.5357142857142857,8,2023-24,BOS,13.636363636363637,2,10
+738,Payton Pritchard,1630202,5,11,11,0,12,0.0,0,0,0,"Jayson Tatum, Derrick White, Luke Kornet, Payton Pritchard, Sam Hauser",15,3,6,1,4,0.5357142857142857,8,2023-24,BOS,0.0,0,10
+739,Sam Hauser,1630573,5,11,11,0,12,0.0,0,1,0,"Jayson Tatum, Derrick White, Luke Kornet, Payton Pritchard, Sam Hauser",15,3,6,1,4,0.5357142857142857,8,2023-24,BOS,0.0,1,10
+740,Jayson Tatum,1628369,5,7,7,0,11,0.0,0,0,0,"Jayson Tatum, Derrick White, Payton Pritchard, Sam Hauser, Al Horford",8,1,2,2,3,0.8,0,2023-24,BOS,0.0,0,5
+741,Derrick White,1628401,5,7,7,3,11,1.5,0,1,0,"Jayson Tatum, Derrick White, Payton Pritchard, Sam Hauser, Al Horford",8,1,2,2,3,0.8,0,2023-24,BOS,32.142857142857146,1,5
+742,Payton Pritchard,1630202,5,7,7,0,11,0.0,1,0,0,"Jayson Tatum, Derrick White, Payton Pritchard, Sam Hauser, Al Horford",8,1,2,2,3,0.8,0,2023-24,BOS,0.0,1,5
+743,Sam Hauser,1630573,5,7,7,0,11,0.0,0,0,0,"Jayson Tatum, Derrick White, Payton Pritchard, Sam Hauser, Al Horford",8,1,2,2,3,0.8,0,2023-24,BOS,0.0,0,5
+744,Al Horford,201143,5,7,7,5,11,0.8333333333333334,1,2,0,"Jayson Tatum, Derrick White, Payton Pritchard, Sam Hauser, Al Horford",8,1,2,2,3,0.8,0,2023-24,BOS,53.57142857142857,3,5
+745,Jaylen Brown,1627759,3,5,6,0,10,0.0,1,1,0,"Jaylen Brown, Jayson Tatum, Derrick White, Sam Hauser, Kristaps Porzingis",4,2,4,0,1,0.4,0,2023-24,BOS,0.0,2,5
+746,Jayson Tatum,1628369,3,5,6,2,10,0.5,2,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Sam Hauser, Kristaps Porzingis",4,2,4,0,1,0.4,0,2023-24,BOS,30.0,2,5
+747,Derrick White,1628401,3,5,6,0,10,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Sam Hauser, Kristaps Porzingis",4,2,4,0,1,0.4,0,2023-24,BOS,0.0,0,5
+748,Sam Hauser,1630573,3,5,6,0,10,0.0,0,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Sam Hauser, Kristaps Porzingis",4,2,4,0,1,0.4,0,2023-24,BOS,0.0,0,5
+749,Kristaps Porzingis,204001,3,5,6,2,10,1.0,1,0,0,"Jaylen Brown, Jayson Tatum, Derrick White, Sam Hauser, Kristaps Porzingis",4,2,4,0,1,0.4,0,2023-24,BOS,30.0,1,5
