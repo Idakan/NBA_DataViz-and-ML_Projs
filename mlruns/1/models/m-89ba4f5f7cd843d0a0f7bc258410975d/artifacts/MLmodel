@@ -1,0 +1,22 @@
+artifact_path: /Users/nakadi/Documents/GitHub/NBA_DataViz-and-ML_Projs/mlruns/1/models/m-89ba4f5f7cd843d0a0f7bc258410975d/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.14.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.8.1
+model_id: m-89ba4f5f7cd843d0a0f7bc258410975d
+model_size_bytes: 3400
+model_uuid: m-89ba4f5f7cd843d0a0f7bc258410975d
+prompts: null
+run_id: 7ee726275eb44ce8bfff204306f435d3
+utc_time_created: '2026-01-10 23:21:49.005082'

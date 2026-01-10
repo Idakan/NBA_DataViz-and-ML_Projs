@@ -1,0 +1,20 @@
+click
+matplotlib
+matplotlib-inline
+pexpect
+plotly.express
+mlflow
+mlflow_skinny
+numpy
+pandas
+scikit_learn == 1.7.2
+seaborn
+statsmodels
+sqlmodel
+sqlalchemy_utils
+passlib
+bcrypt
+imblearn
+xgboost 
+great_tables
+nba_api
